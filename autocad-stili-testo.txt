@@ -1,0 +1,76 @@
+Comando: CMDECHO
+Digitare nuovo valore per CMDECHO <1>: 1
+Comando: MEASUREMENT
+Digitare nuovo valore per MEASUREMENT <1>: 1
+Comando: INSUNITS
+Digitare nuovo valore per INSUNITS <4>: 4
+Comando: OSMODE
+Digitare nuovo valore per OSMODE <0>: 0
+Comando: OSNAPCOORD
+Digitare nuovo valore per OSNAPCOORD <1>: 1
+Comando: ORTHOMODE
+Digitare nuovo valore per ORTHOMODE <0>: 0
+Comando: SNAPMODE
+Digitare nuovo valore per SNAPMODE <0>: 0
+Comando: DYNMODE
+Digitare nuovo valore per DYNMODE <0>: 0
+Comando: TEXTSTYLE
+Digitare nuovo valore per TEXTSTYLE <"Standard">: Standard
+Comando: _TEXT
+Stile di testo corrente: "Standard"  Altezza del testo: 2.5000  Annotativo:  No  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 0,0
+Specificare altezza <2.5000>: 2.5
+Specificare angolo di rotazione del testo <0>: 0
+Digitare testo: Standard
+Comando: _-STYLE
+Digitare nome dello stile di testo o [?] <Standard>: ALTEZZA5
+Nuovo stile.
+Specificare nome di font o nome del file di font (per SHX) <txt>: arial.ttf
+Specificare l'altezza testo o [Annotativo] <0.0000>: 5
+Specificare fattore di larghezza <1.0000>: 1
+Specificare angolo d'inclinazione <0>: 0
+Visualizzare testo in senso contrario? [Sì/No] <No>: _N
+Visualizzare testo capovolto? [Sì/No] <No>: _N
+"ALTEZZA5" è ora lo stile di testo corrente.
+Comando: _TEXT
+Stile di testo corrente: "ALTEZZA5"  Altezza del testo: 5.0000  Annotativo:  No  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 0,20
+Specificare angolo di rotazione del testo <0>: 0
+Digitare testo: Altezza5
+Comando: _-STYLE
+Digitare nome dello stile di testo o [?] <ALTEZZA5>: LARGHEZZA08
+Nuovo stile.
+Specificare nome di font o nome del file di font (per SHX) <txt>: arial.ttf
+Specificare l'altezza testo o [Annotativo] <0.0000>: 0
+Specificare fattore di larghezza <1.0000>: 0.8
+Specificare angolo d'inclinazione <0>: 15
+Visualizzare testo in senso contrario? [Sì/No] <No>: _N
+Visualizzare testo capovolto? [Sì/No] <No>: _N
+"LARGHEZZA08" è ora lo stile di testo corrente.
+Comando: _TEXT
+Stile di testo corrente: "LARGHEZZA08"  Altezza del testo: 5.0000  Annotativo:  No  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 0,40
+Specificare altezza <5.0000>: 2.5
+Specificare angolo di rotazione del testo <0>: 0
+Digitare testo: Larghezza08
+Comando: _-STYLE
+Digitare nome dello stile di testo o [?] <LARGHEZZA08>: CAPOVOLTO
+Nuovo stile.
+Specificare nome di font o nome del file di font (per SHX) <txt>: arial.ttf
+Specificare l'altezza testo o [Annotativo] <0.0000>: 0
+Specificare fattore di larghezza <1.0000>: 1
+Specificare angolo d'inclinazione <0>: 0
+Visualizzare testo in senso contrario? [Sì/No] <No>: _Y
+Visualizzare testo capovolto? [Sì/No] <No>: _Y
+"CAPOVOLTO" è ora lo stile di testo corrente.
+Comando: _TEXT
+Stile di testo corrente: "CAPOVOLTO"  Altezza del testo: 2.5000  Annotativo:  No  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 0,60
+Specificare altezza <2.5000>: 2.5
+Specificare angolo di rotazione del testo <0>: 0
+Digitare testo: Capovolto
+Comando: TEXTSTYLE
+Digitare nuovo valore per TEXTSTYLE <"CAPOVOLTO">: Standard
+Comando: _ZOOM
+Specificare un angolo della finestra, digitare un fattore di scala (nX o nXP) o
+[Tutto/Centrato/Dinamico/Estensioni/Precedente/scAla/Finestra/Oggetto] <tempo reale>: _E

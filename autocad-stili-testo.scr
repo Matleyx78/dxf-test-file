@@ -1,0 +1,71 @@
+;Tecnigrafo 0.8 - stili di testo
+CMDECHO
+1
+MEASUREMENT
+1
+INSUNITS
+4
+OSMODE
+0
+OSNAPCOORD
+1
+ORTHOMODE
+0
+SNAPMODE
+0
+DYNMODE
+0
+;a: Standard, quello del modello
+TEXTSTYLE
+Standard
+_TEXT
+0,0
+2.5
+0
+Standard
+;b: altezza fissa 5 (TEXT non chiede l'altezza)
+_-STYLE
+ALTEZZA5
+arial.ttf
+5
+1
+0
+_N
+_N
+_TEXT
+0,20
+0
+Altezza5
+;c: fattore di larghezza 0.8 e obliquo 15
+_-STYLE
+LARGHEZZA08
+arial.ttf
+0
+0.8
+15
+_N
+_N
+_TEXT
+0,40
+2.5
+0
+Larghezza08
+;d: all'indietro e capovolto
+_-STYLE
+CAPOVOLTO
+arial.ttf
+0
+1
+0
+_Y
+_Y
+_TEXT
+0,60
+2.5
+0
+Capovolto
+;di nuovo Standard come stile corrente
+TEXTSTYLE
+Standard
+_ZOOM
+_E
