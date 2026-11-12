@@ -1,0 +1,138 @@
+Comando: CMDECHO
+Digitare nuovo valore per CMDECHO <1>: 1
+Comando: MEASUREMENT
+Digitare nuovo valore per MEASUREMENT <1>: 1
+Comando: INSUNITS
+Digitare nuovo valore per INSUNITS <4>: 4
+Comando: OSMODE
+Digitare nuovo valore per OSMODE <0>: 0
+Comando: OSNAPCOORD
+Digitare nuovo valore per OSNAPCOORD <1>: 1
+Comando: ORTHOMODE
+Digitare nuovo valore per ORTHOMODE <0>: 0
+Comando: SNAPMODE
+Digitare nuovo valore per SNAPMODE <0>: 0
+Comando: DYNMODE
+Digitare nuovo valore per DYNMODE <0>: 0
+Comando: MIRRTEXT
+Digitare nuovo valore per MIRRTEXT <0>: 0
+Comando: PELLIPSE
+Digitare nuovo valore per PELLIPSE <0>: 0
+Comando: _ELLIPSE
+Specificare punto finale dell'asse dell'ellisse o [Arco/Centro]: 0,0
+Specificare secondo punto finale dell'asse: 40,0
+Specificare distanza dal secondo asse o [Rotazione]: 10
+Comando: _ELLIPSE
+Specificare punto finale dell'asse dell'ellisse o [Arco/Centro]: 60,0
+Specificare secondo punto finale dell'asse: 80,0
+Specificare distanza dal secondo asse o [Rotazione]: 25
+Comando: _ELLIPSE
+Specificare punto finale dell'asse dell'ellisse o [Arco/Centro]: _C
+Specificare centro dell'ellisse: 150,0
+Specificare punto finale dell'asse: 170,0
+Specificare distanza dal secondo asse o [Rotazione]: 8
+Comando: _ELLIPSE
+Specificare punto finale dell'asse dell'ellisse o [Arco/Centro]: 200,0
+Specificare secondo punto finale dell'asse: 240,0
+Specificare distanza dal secondo asse o [Rotazione]: _R
+Specificare rotazione attorno all'asse maggiore: 60
+Comando: _ELLIPSE
+Specificare punto finale dell'asse dell'ellisse o [Arco/Centro]: _C
+Specificare centro dell'ellisse: 300,0
+Specificare punto finale dell'asse: 320,0
+Specificare distanza dal secondo asse o [Rotazione]: 10
+Comando: _ROTATE
+Angolo positivo corrente in UCS:  ANGDIR=antiorario  ANGBASE=0
+Selezionare oggetti: _L
+trovato(i) 1
+Selezionare oggetti:
+Specificare punto base: 300,0
+Specificare angolo di rotazione o [Copia/Riferimento] <0>: 30
+Comando: _ELLIPSE
+Specificare punto finale dell'asse dell'ellisse o [Arco/Centro]: _C
+Specificare centro dell'ellisse: 400,0
+Specificare punto finale dell'asse: 420,5
+Specificare distanza dal secondo asse o [Rotazione]: 8
+Comando: _MIRROR
+Selezionare oggetti: _L
+trovato(i) 1
+Selezionare oggetti:
+Specificare primo punto della linea speculare: 450,-50
+Specificare un secondo punto della linea speculare: 450,50
+Cancellare gli oggetti sorgente? [Sì/No] <No>: _N
+Comando: _ELLIPSE
+Specificare punto finale dell'asse dell'ellisse o [Arco/Centro]: _A
+Specificare punto finale dell'asse dell'arco ellittico o [Centro]: 0,-60
+Specificare secondo punto finale dell'asse: 40,-60
+Specificare distanza dal secondo asse o [Rotazione]: 10
+Specificare angolo iniziale o [Parametro]: 30
+Specificare angolo finale o [Parametro/angolo Inscritto]: 200
+Comando: _ELLIPSE
+Specificare punto finale dell'asse dell'ellisse o [Arco/Centro]: _A
+Specificare punto finale dell'asse dell'arco ellittico o [Centro]: _C
+Specificare centro dell'arco ellittico: 100,-60
+Specificare punto finale dell'asse: 120,-60
+Specificare distanza dal secondo asse o [Rotazione]: 6
+Specificare angolo iniziale o [Parametro]: -45
+Specificare angolo finale o [Parametro/angolo Inscritto]: _I
+Specificare angolo inscritto per arco <180>: 120
+Comando: _ELLIPSE
+Specificare punto finale dell'asse dell'ellisse o [Arco/Centro]: _A
+Specificare punto finale dell'asse dell'arco ellittico o [Centro]: 200,-60
+Specificare secondo punto finale dell'asse: 240,-60
+Specificare distanza dal secondo asse o [Rotazione]: 10
+Specificare angolo iniziale o [Parametro]: 0
+Specificare angolo finale o [Parametro/angolo Inscritto]: 120
+Comando: _MIRROR
+Selezionare oggetti: _L
+trovato(i) 1
+Selezionare oggetti:
+Specificare primo punto della linea speculare: 260,-100
+Specificare un secondo punto della linea speculare: 260,0
+Cancellare gli oggetti sorgente? [Sì/No] <No>: _N
+Comando: _ELLIPSE
+Specificare punto finale dell'asse dell'ellisse o [Arco/Centro]: _C
+Specificare centro dell'ellisse: 10,-145
+Specificare punto finale dell'asse: 25,-137
+Specificare distanza dal secondo asse o [Rotazione]: 6
+Comando: _-BLOCK
+Digitare nome del blocco o [?]: ELLISSE_INTERA
+Specificare il punto base di inserimento o [Annotativo/mOdalità]: 0,-150
+Selezionare oggetti: _L
+trovato(i) 1
+Selezionare oggetti:
+Comando: _-INSERT
+Digitare nome del blocco o [?]: ELLISSE_INTERA
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 0,-200
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: 2
+Digitare fattore di scala Y <Utilizza fattore di scala X>: 1
+Specificare angolo di rotazione <0>: 0
+Comando: _EXPLODE
+Selezionare oggetto: _L
+Comando: _ELLIPSE
+Specificare punto finale dell'asse dell'ellisse o [Arco/Centro]: _A
+Specificare punto finale dell'asse dell'arco ellittico o [Centro]: _C
+Specificare centro dell'arco ellittico: 110,-145
+Specificare punto finale dell'asse: 125,-137
+Specificare distanza dal secondo asse o [Rotazione]: 6
+Specificare angolo iniziale o [Parametro]: 20
+Specificare angolo finale o [Parametro/angolo Inscritto]: 250
+Comando: _-BLOCK
+Digitare nome del blocco o [?]: ARCO_ELLITTICO
+Specificare il punto base di inserimento o [Annotativo/mOdalità]: 100,-150
+Selezionare oggetti: _L
+trovato(i) 1
+Selezionare oggetti:
+Comando: _-INSERT
+Digitare nome del blocco o [?] <ELLISSE_INTERA>: ARCO_ELLITTICO
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 100,-200
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: 2
+Digitare fattore di scala Y <Utilizza fattore di scala X>: 1
+Specificare angolo di rotazione <0>: 0
+Comando: _EXPLODE
+Selezionare oggetto: _L
+Comando: _ZOOM
+Specificare un angolo della finestra, digitare un fattore di scala (nX o nXP) o
+[Tutto/Centrato/Dinamico/Estensioni/Precedente/scAla/Finestra/Oggetto] <tempo reale>: _E
