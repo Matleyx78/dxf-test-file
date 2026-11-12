@@ -1,0 +1,87 @@
+;Tecnigrafo 0.8 - inserimento dei due simboli come file
+CMDECHO
+1
+MEASUREMENT
+1
+INSUNITS
+4
+OSMODE
+0
+OSNAPCOORD
+1
+ORTHOMODE
+0
+SNAPMODE
+0
+DYNMODE
+0
+TEXTSIZE
+2.5
+CECOLOR
+BYLAYER
+CELTYPE
+BYLAYER
+CLAYER
+0
+ATTREQ
+0
+ATTDIA
+0
+;TRATTO da tratto-destinazione.lin (definizione diversa da quella del simbolo)
+FILEDIA
+0
+_-LINETYPE
+_L
+TRATTO
+tratto-destinazione.lin
+
+FILEDIA
+1
+;layer SIMBOLI rosso (nei simboli e' blu)
+_-LAYER
+_M
+SIMBOLI
+_C
+1
+SIMBOLI
+
+CLAYER
+0
+;un blocco che ha gia' il nome del secondo simbolo: un cerchio
+_CIRCLE
+0,0
+5
+_-BLOCK
+simbolo-con-tipo-di-linea
+0,0
+_L
+
+_-INSERT
+simbolo-con-tipo-di-linea
+0,0
+1
+
+0
+;il contatto, nome nuovo
+_-INSERT
+simbolo-contatto.dxf
+50,0
+1
+
+0
+;il simbolo con il tipo di linea, nome gia' esistente, solo il file: AutoCAD non chiede nulla
+_-INSERT
+simbolo-con-tipo-di-linea.dxf
+100,0
+1
+
+0
+;lo stesso con nome=file: da script ridefinisce senza chiedere
+_-INSERT
+simbolo-con-tipo-di-linea=simbolo-con-tipo-di-linea.dxf
+150,0
+1
+
+0
+_ZOOM
+_E
