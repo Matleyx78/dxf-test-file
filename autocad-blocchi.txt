@@ -1,0 +1,431 @@
+Comando: CMDECHO
+Digitare nuovo valore per CMDECHO <1>: 1
+Comando: MEASUREMENT
+Digitare nuovo valore per MEASUREMENT <1>: 1
+Comando: INSUNITS
+Digitare nuovo valore per INSUNITS <4>: 4
+Comando: OSMODE
+Digitare nuovo valore per OSMODE <0>: 0
+Comando: OSNAPCOORD
+Digitare nuovo valore per OSNAPCOORD <1>: 1
+Comando: ORTHOMODE
+Digitare nuovo valore per ORTHOMODE <0>: 0
+Comando: SNAPMODE
+Digitare nuovo valore per SNAPMODE <0>: 0
+Comando: DYNMODE
+Digitare nuovo valore per DYNMODE <0>: 0
+Comando: MIRRTEXT
+Digitare nuovo valore per MIRRTEXT <0>: 0
+Comando: ATTREQ
+Digitare nuovo valore per ATTREQ <1>: 0
+Comando: ATTDIA
+Digitare nuovo valore per ATTDIA <1>: 0
+Comando: TEXTSIZE
+Digitare nuovo valore per TEXTSIZE <2.5000>: 2.5
+Comando: CECOLOR
+Digitare nuovo valore per CECOLOR <"DALAYER">: BYLAYER
+Comando: CLAYER
+Digitare nuovo valore per CLAYER <"0">: 0
+Comando: _-LAYER
+Layer corrente:  "0"
+Digitare un'opzione [?/Def/coRrente/Nuovo/RInomina/ON/OFF/Colore/Tipolinea/SPesslin/TRasparenza/MAteriali/Stampa/conGela/SCongela/BLocca/SBlocca/stAto/DEScrizione/RIConcilia/Xrif]: _M
+Digitare nome del nuovo layer (che diventerà il layer corrente) <0>: BLOCCHI
+Digitare un'opzione [?/Def/coRrente/Nuovo/RInomina/ON/OFF/Colore/Tipolinea/SPesslin/TRasparenza/MAteriali/Stampa/conGela/SCongela/BLocca/SBlocca/stAto/DEScrizione/RIConcilia/Xrif]: _C
+Nuovo colore [Truecolor/CAtalogocolori] : 3
+Digitare elenco nomi di layer per il colore 3 (verde) <BLOCCHI>: BLOCCHI
+Digitare un'opzione [?/Def/coRrente/Nuovo/RInomina/ON/OFF/Colore/Tipolinea/SPesslin/TRasparenza/MAteriali/Stampa/conGela/SCongela/BLocca/SBlocca/stAto/DEScrizione/RIConcilia/Xrif]:
+Comando: CLAYER
+Digitare nuovo valore per CLAYER <"BLOCCHI">: 0
+Comando: _RECTANG
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: 0,0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: 20,10
+Comando: _CIRCLE
+Specificare punto centrale del cerchio o [3P/2P/Ttr (tangente tangente raggio)]: 10,5
+Specificare raggio del cerchio o [Diametro]: 3
+Comando: _ARC
+Specificare punto iniziale dell'arco o [Centro]: 2,8
+Specificare secondo punto dell'arco [Centro/Fine]: 5,9.5
+Specificare punto finale dell'arco: 8,8
+Comando: _TEXT
+Stile di testo corrente: "Standard"  Altezza del testo: 2.5000  Annotativo:  No  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 1,1
+Specificare altezza <2.5000>: 2
+Specificare angolo di rotazione del testo <0>: 0
+Digitare testo: S
+Comando: _-BLOCK
+Digitare nome del blocco o [?]: SEMPLICE
+Specificare il punto base di inserimento o [Annotativo/mOdalità]: 0,0
+Selezionare oggetti: _ALL
+trovato(i) 4
+Selezionare oggetti:
+Comando: CECOLOR
+Digitare nuovo valore per CECOLOR <"DALAYER">: BYBLOCK
+Comando: _CIRCLE
+Specificare punto centrale del cerchio o [3P/2P/Ttr (tangente tangente raggio)]: 0,0
+Specificare raggio del cerchio o [Diametro] <3.0000>: 5
+Comando: _LINE
+Specificare primo punto: -5,0
+Specificare punto successivo o [Annulla]: 5,0
+Specificare punto successivo o [Annulla]:
+Comando: CECOLOR
+Digitare nuovo valore per CECOLOR <"DABLOCCO">: BYLAYER
+Comando: _-BLOCK
+Digitare nome del blocco o [?]: DABLOCCO
+Specificare il punto base di inserimento o [Annotativo/mOdalità]: 0,0
+Selezionare oggetti: _ALL
+trovato(i) 2
+Selezionare oggetti:
+Comando: _RECTANG
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: 0,0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: 40,20
+Comando: _-INSERT
+Digitare nome del blocco o [?]: SEMPLICE
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 10,5
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: 1
+Digitare fattore di scala Y <Utilizza fattore di scala X>:
+Specificare angolo di rotazione <0>: 0
+Comando: _-BLOCK
+Digitare nome del blocco o [?]: ESTERNO
+Specificare il punto base di inserimento o [Annotativo/mOdalità]: 0,0
+Selezionare oggetti: _ALL
+trovato(i) 2
+Selezionare oggetti:
+Comando: _RECTANG
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: 0,0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: 40,25
+Comando: AFLAGS
+Digitare nuovo valore per AFLAGS <16>: 0
+Comando: _-ATTDEF
+Modalità attributi correnti:
+Invisibile=N  Costante=N  Verifica=N  Preassegna=N  Blocca posizione=N  Annotativo=N  Linee 
+multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>:
+Digitare nome etichetta dell'attributo: CODICE
+Digitare messaggio di richiesta per l'attributo: Codice
+Digitare valore di default per l'attributo: A1
+Stile di testo corrente:  "Standard"  Altezza del testo:  2.0000  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 2,19
+Specificare altezza <2.0000>: 2.5
+Specificare angolo di rotazione del testo <0>: 0
+Comando: AFLAGS
+Digitare nuovo valore per AFLAGS <0>: 1
+Comando: _-ATTDEF
+Modalità attributi correnti:
+Invisibile=S  Costante=N  Verifica=N  Preassegna=N  Blocca posizione=N  Annotativo=N  Linee 
+multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>:
+Digitare nome etichetta dell'attributo: NASCOSTO
+Digitare messaggio di richiesta per l'attributo: Nascosto
+Digitare valore di default per l'attributo: N1
+Stile di testo corrente:  "Standard"  Altezza del testo:  2.5000  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 2,14
+Specificare altezza <2.5000>: 2.5
+Specificare angolo di rotazione del testo <0>: 0
+Comando: AFLAGS
+Digitare nuovo valore per AFLAGS <1>: 2
+Comando: _-ATTDEF
+Modalità attributi correnti:
+Invisibile=N  Costante=S  Verifica=N  Preassegna=N  Blocca posizione=N  Annotativo=N  Linee 
+multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>:
+Digitare nome etichetta dell'attributo: COSTANTE
+Digitare valore dell'attributo: K1
+Stile di testo corrente:  "Standard"  Altezza del testo:  2.5000  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 2,9
+Specificare altezza <2.5000>: 2.5
+Specificare angolo di rotazione del testo <0>: 0
+Comando: AFLAGS
+Digitare nuovo valore per AFLAGS <2>: 8
+Comando: _-ATTDEF
+Modalità attributi correnti:
+Invisibile=N  Costante=N  Verifica=N  Preassegna=S  Blocca posizione=N  Annotativo=N  Linee 
+multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>:
+Digitare nome etichetta dell'attributo: PRESET
+Digitare messaggio di richiesta per l'attributo: Preimpostato
+Digitare valore di default per l'attributo: P1
+Stile di testo corrente:  "Standard"  Altezza del testo:  2.5000  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 2,4
+Specificare altezza <2.5000>: 2.5
+Specificare angolo di rotazione del testo <0>: 0
+Comando: AFLAGS
+Digitare nuovo valore per AFLAGS <8>: 0
+Comando: _-BLOCK
+Digitare nome del blocco o [?]: ATTRIBUTI
+Specificare il punto base di inserimento o [Annotativo/mOdalità]: 0,0
+Selezionare oggetti: _ALL
+trovato(i) 5
+Selezionare oggetti:
+Comando: _RECTANG
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: 0,0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: 10,10
+Comando: _-BLOCK
+Digitare nome del blocco o [?]: RIDEFINITO
+Specificare il punto base di inserimento o [Annotativo/mOdalità]: 0,0
+Selezionare oggetti: _L
+trovato(i) 1
+Selezionare oggetti:
+Comando: _RECTANG
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: 0,0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: 10,10
+Comando: _LINE
+Specificare primo punto: 0,0
+Specificare punto successivo o [Annulla]: 10,10
+Specificare punto successivo o [Annulla]:
+Comando: _-BLOCK
+Digitare nome del blocco o [?]: NON_ESPLODIBILE
+Specificare il punto base di inserimento o [Annotativo/mOdalità]: 0,0
+Selezionare oggetti: _ALL
+trovato(i) 2
+Selezionare oggetti:
+Comando: (vl-load-com)
+Specificare punto successivo o [Annulla]: 5,0
+Specificare punto successivo o [Annulla]:
+Comando: CECOLOR
+Digitare nuovo valore per CECOLOR <"DABLOCCO">: BYLAYER
+Comando: _-BLOCK
+Digitare nome del blocco o [?]: DABLOCCO
+Specificare il punto base di inserimento o [Annotativo/mOdalità]: 0,0
+Selezionare oggetti: _ALL
+trovato(i) 2
+Selezionare oggetti:
+Comando: _RECTANG
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: 0,0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: 40,20
+Comando: _-INSERT
+Digitare nome del blocco o [?]: SEMPLICE
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 10,5
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: 1
+Digitare fattore di scala Y <Utilizza fattore di scala X>:
+Specificare angolo di rotazione <0>: 0
+Comando: _-BLOCK
+Digitare nome del blocco o [?]: ESTERNO
+Specificare il punto base di inserimento o [Annotativo/mOdalità]: 0,0
+Selezionare oggetti: _ALL
+trovato(i) 2
+Selezionare oggetti:
+Comando: _RECTANG
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: 0,0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: 40,25
+Comando: AFLAGS
+Digitare nuovo valore per AFLAGS <16>: 0
+Comando: _-ATTDEF
+Modalità attributi correnti:
+Invisibile=N  Costante=N  Verifica=N  Preassegna=N  Blocca posizione=N  Annotativo=N  Linee 
+multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>:
+Digitare nome etichetta dell'attributo: CODICE
+Digitare messaggio di richiesta per l'attributo: Codice
+Digitare valore di default per l'attributo: A1
+Stile di testo corrente:  "Standard"  Altezza del testo:  2.0000  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 2,19
+Specificare altezza <2.0000>: 2.5
+Specificare angolo di rotazione del testo <0>: 0
+Comando: AFLAGS
+Digitare nuovo valore per AFLAGS <0>: 1
+Comando: _-ATTDEF
+Modalità attributi correnti:
+Invisibile=S  Costante=N  Verifica=N  Preassegna=N  Blocca posizione=N  Annotativo=N  Linee 
+multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>:
+Digitare nome etichetta dell'attributo: NASCOSTO
+Digitare messaggio di richiesta per l'attributo: Nascosto
+Digitare valore di default per l'attributo: N1
+Stile di testo corrente:  "Standard"  Altezza del testo:  2.5000  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 2,14
+Specificare altezza <2.5000>: 2.5
+Specificare angolo di rotazione del testo <0>: 0
+Comando: AFLAGS
+Digitare nuovo valore per AFLAGS <1>: 2
+Comando: _-ATTDEF
+Modalità attributi correnti:
+Invisibile=N  Costante=S  Verifica=N  Preassegna=N  Blocca posizione=N  Annotativo=N  Linee 
+multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>:
+Digitare nome etichetta dell'attributo: COSTANTE
+Digitare valore dell'attributo: K1
+Stile di testo corrente:  "Standard"  Altezza del testo:  2.5000  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 2,9
+Specificare altezza <2.5000>: 2.5
+Specificare angolo di rotazione del testo <0>: 0
+Comando: AFLAGS
+Digitare nuovo valore per AFLAGS <2>: 8
+Comando: _-ATTDEF
+Modalità attributi correnti:
+Invisibile=N  Costante=N  Verifica=N  Preassegna=S  Blocca posizione=N  Annotativo=N  Linee 
+multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>:
+Digitare nome etichetta dell'attributo: PRESET
+Digitare messaggio di richiesta per l'attributo: Preimpostato
+Digitare valore di default per l'attributo: P1
+Stile di testo corrente:  "Standard"  Altezza del testo:  2.5000  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 2,4
+Specificare altezza <2.5000>: 2.5
+Specificare angolo di rotazione del testo <0>: 0
+Comando: AFLAGS
+Digitare nuovo valore per AFLAGS <8>: 0
+Comando: _-BLOCK
+Digitare nome del blocco o [?]: ATTRIBUTI
+Specificare il punto base di inserimento o [Annotativo/mOdalità]: 0,0
+Selezionare oggetti: _ALL
+trovato(i) 5
+Selezionare oggetti:
+Comando: _RECTANG
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: 0,0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: 10,10
+Comando: _-BLOCK
+Digitare nome del blocco o [?]: RIDEFINITO
+Specificare il punto base di inserimento o [Annotativo/mOdalità]: 0,0
+Selezionare oggetti: _L
+trovato(i) 1
+Selezionare oggetti:
+Comando: _RECTANG
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: 0,0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: 10,10
+Comando: _LINE
+Specificare primo punto: 0,0
+Specificare punto successivo o [Annulla]: 10,10
+Specificare punto successivo o [Annulla]:
+Comando: _-BLOCK
+Digitare nome del blocco o [?]: NON_ESPLODIBILE
+Specificare il punto base di inserimento o [Annotativo/mOdalità]: 0,0
+Selezionare oggetti: _ALL
+trovato(i) 2
+Selezionare oggetti:
+Comando: (vl-load-com)
+Comando: (vla-put-Explodable (vla-item (vla-get-Blocks (vla-get-ActiveDocument (vlax-get-acad-object))) "NON_ESPLODIBILE") :vlax-false)
+nil
+Comando: _-INSERT
+Digitare nome del blocco o [?] <SEMPLICE>: SEMPLICE
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 0,0
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: 1
+Digitare fattore di scala Y <Utilizza fattore di scala X>:
+Specificare angolo di rotazione <0>: 0
+Comando: _-INSERT
+Digitare nome del blocco o [?] <SEMPLICE>: SEMPLICE
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 40,0
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: 2
+Digitare fattore di scala Y <Utilizza fattore di scala X>:
+Specificare angolo di rotazione <0>: 0
+Comando: _-INSERT
+Digitare nome del blocco o [?] <SEMPLICE>: SEMPLICE
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 120,0
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: -1
+Digitare fattore di scala Y <Utilizza fattore di scala X>: 1
+Specificare angolo di rotazione <0>: 0
+Comando: _-INSERT
+Digitare nome del blocco o [?] <SEMPLICE>: SEMPLICE
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 140,0
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: 2
+Digitare fattore di scala Y <Utilizza fattore di scala X>: 1
+Specificare angolo di rotazione <0>: 0
+Comando: _-INSERT
+Digitare nome del blocco o [?] <SEMPLICE>: SEMPLICE
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 200,0
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: 1
+Digitare fattore di scala Y <Utilizza fattore di scala X>:
+Specificare angolo di rotazione <0>: 30
+Comando: _-INSERT
+Digitare nome del blocco o [?] <SEMPLICE>: DABLOCCO
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 0,-50
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: 1
+Digitare fattore di scala Y <Utilizza fattore di scala X>:
+Specificare angolo di rotazione <0>: 0
+Comando: CLAYER
+Digitare nuovo valore per CLAYER <"0">: BLOCCHI
+Comando: _-INSERT
+Digitare nome del blocco o [?] <DABLOCCO>: DABLOCCO
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 20,-50
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: 1
+Digitare fattore di scala Y <Utilizza fattore di scala X>:
+Specificare angolo di rotazione <0>: 0
+Comando: CLAYER
+Digitare nuovo valore per CLAYER <"BLOCCHI">: 0
+Comando: CECOLOR
+Digitare nuovo valore per CECOLOR <"DALAYER">: 1
+Comando: _-INSERT
+Digitare nome del blocco o [?] <DABLOCCO>: DABLOCCO
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 40,-50
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: 1
+Digitare fattore di scala Y <Utilizza fattore di scala X>:
+Specificare angolo di rotazione <0>: 0
+Comando: CECOLOR
+Digitare nuovo valore per CECOLOR <"1">: BYLAYER
+Comando: _-INSERT
+Digitare nome del blocco o [?] <DABLOCCO>: ESTERNO
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 0,-100
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: 1
+Digitare fattore di scala Y <Utilizza fattore di scala X>:
+Specificare angolo di rotazione <0>: 0
+Comando: _-INSERT
+Digitare nome del blocco o [?] <ESTERNO>: ATTRIBUTI
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 0,-150
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: 1
+Digitare fattore di scala Y <Utilizza fattore di scala X>:
+Specificare angolo di rotazione <0>: 0
+Comando: _MIRROR
+Selezionare oggetti: _L
+trovato(i) 1
+Selezionare oggetti:
+Specificare primo punto della linea speculare: 60,-200
+Specificare un secondo punto della linea speculare: 60,-100
+Cancellare gli oggetti sorgente? [Sì/No] <No>: _N
+Comando: _-INSERT
+Digitare nome del blocco o [?] <ATTRIBUTI>: RIDEFINITO
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 0,-200
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: 1
+Digitare fattore di scala Y <Utilizza fattore di scala X>:
+Specificare angolo di rotazione <0>: 0
+Comando: _-INSERT
+Digitare nome del blocco o [?] <RIDEFINITO>: RIDEFINITO
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 20,-200
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: 1
+Digitare fattore di scala Y <Utilizza fattore di scala X>:
+Specificare angolo di rotazione <0>: 0
+Comando: _CIRCLE
+Specificare punto centrale del cerchio o [3P/2P/Ttr (tangente tangente raggio)]: 105,-195
+Specificare raggio del cerchio o [Diametro] <5.0000>: 5
+Comando: _-BLOCK
+Digitare nome del blocco o [?]: RIDEFINITO
+Il blocco "RIDEFINITO" esiste già. Ridefinirlo? [Sì/No] <N>: _Y
+Specificare il punto base di inserimento o [Annotativo/mOdalità]: 100,-200
+Selezionare oggetti: _L
+trovato(i) 1
+Selezionare oggetti:
+Blocco "RIDEFINITO" ridefinito
+Comando: _-INSERT
+Digitare nome del blocco o [?] <RIDEFINITO>: NON_ESPLODIBILE
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 0,-250
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: 1
+Digitare fattore di scala Y <Utilizza fattore di scala X>:
+Specificare angolo di rotazione <0>: 0
+Comando: _ZOOM
+Specificare un angolo della finestra, digitare un fattore di scala (nX o nXP) o
+[Tutto/Centrato/Dinamico/Estensioni/Precedente/scAla/Finestra/Oggetto] <tempo reale>: _E
+Comando:
+Comando:
+Comando: *Annullato*
+Comando: _ZOOM
+Specificare un angolo della finestra, digitare un fattore di scala (nX o nXP) o
+[Tutto/Centrato/Dinamico/Estensioni/Precedente/scAla/Finestra/Oggetto] <tempo reale>: _W
+Specificare primo angolo: -5,-255
+Specificare angolo opposto: 30,-185
+Comando: ESPLODI
+Selezionare oggetti: trovato(i) 1
+Selezionare oggetti:
+Impossibile esplodere 1.
