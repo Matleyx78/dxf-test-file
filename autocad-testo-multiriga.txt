@@ -1,0 +1,167 @@
+Comando: CMDECHO
+Digitare nuovo valore per CMDECHO <1>: 1
+Comando: MEASUREMENT
+Digitare nuovo valore per MEASUREMENT <1>: 1
+Comando: INSUNITS
+Digitare nuovo valore per INSUNITS <4>: 4
+Comando: OSMODE
+Digitare nuovo valore per OSMODE <0>: 0
+Comando: OSNAPCOORD
+Digitare nuovo valore per OSNAPCOORD <1>: 1
+Comando: ORTHOMODE
+Digitare nuovo valore per ORTHOMODE <0>: 0
+Comando: SNAPMODE
+Digitare nuovo valore per SNAPMODE <0>: 0
+Comando: DYNMODE
+Digitare nuovo valore per DYNMODE <0>: 0
+Comando: TEXTSIZE
+Digitare nuovo valore per TEXTSIZE <2.5000>: 2.5
+Comando: _-STYLE
+Digitare nome dello stile di testo o [?] <Standard>: ARIAL
+Nuovo stile.
+Specificare nome di font o nome del file di font (per SHX) <txt>: arial.ttf
+Specificare l'altezza testo o [Annotativo] <0.0000>: 0
+Specificare fattore di larghezza <1.0000>: 1
+Specificare angolo d'inclinazione <0>: 0
+Visualizzare testo in senso contrario? [Sì/No] <No>: _N
+Visualizzare testo capovolto? [Sì/No] <No>: _N
+"ARIAL" è ora lo stile di testo corrente.
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,0
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Larghezza zero: una riga sola anche se lunga quanto questa frase
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-20
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 60
+Testom: Primo paragrafo con abbastanza parole da andare a capo dentro la colonna larga sessanta.
+Testom: Secondo paragrafo: Parolalunghissimasenzaspazichenonentranellacolonnadisessantamillimetri e poi altre parole.
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,0
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _J
+Immettere la giustificazione [AS/AC/AD/MS/MC/MD/BS/BC/BD] <AS>: _TL
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 30
+Testom: TL riga uno
+Testom: TL riga due
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 200,0
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _J
+Immettere la giustificazione [AS/AC/AD/MS/MC/MD/BS/BC/BD] <AS>: _TC
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 30
+Testom: TC riga uno
+Testom: TC riga due
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 250,0
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _J
+Immettere la giustificazione [AS/AC/AD/MS/MC/MD/BS/BC/BD] <AS>: _TR
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 30
+Testom: TR riga uno
+Testom: TR riga due
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,-30
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _J
+Immettere la giustificazione [AS/AC/AD/MS/MC/MD/BS/BC/BD] <AS>: _ML
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 30
+Testom: ML riga uno
+Testom: ML riga due
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 200,-30
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _J
+Immettere la giustificazione [AS/AC/AD/MS/MC/MD/BS/BC/BD] <AS>: _MC
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 30
+Testom: MC riga uno
+Testom: MC riga due
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 250,-30
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _J
+Immettere la giustificazione [AS/AC/AD/MS/MC/MD/BS/BC/BD] <AS>: _MR
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 30
+Testom: MR riga uno
+Testom: MR riga due
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,-60
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _J
+Immettere la giustificazione [AS/AC/AD/MS/MC/MD/BS/BC/BD] <AS>: _BL
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 30
+Testom: BL riga uno
+Testom: BL riga due
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 200,-60
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _J
+Immettere la giustificazione [AS/AC/AD/MS/MC/MD/BS/BC/BD] <AS>: _BC
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 30
+Testom: BC riga uno
+Testom: BC riga due
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 250,-60
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _J
+Immettere la giustificazione [AS/AC/AD/MS/MC/MD/BS/BC/BD] <AS>: _BR
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 30
+Testom: BR riga uno
+Testom: BR riga due
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-80
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _L
+Digitare il tipo di spaziatura linea [Almeno/Esatto] <Almeno>: _A
+Digitare la distanza o il fattore di spaziatura linea <1x>: 1.5x
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 40
+Testom: Interlinea uno e mezzo
+Testom: seconda riga
+Testom: terza riga
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-120
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _R
+Specificare l'angolo di rotazione <0>: 30
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 40
+Testom: Testo ruotato di trenta gradi
+Testom: seconda riga
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-160
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 100
+Testom: Normale {\fArial|b1|i0|c0|p34;grassetto} {\H5;alto cinque} {\C1;rosso} frazione \S1/2; fine
+Testom:
+Comando: TEXTSTYLE
+Digitare nuovo valore per TEXTSTYLE <"ARIAL">: Standard
+Comando: _ZOOM
+Specificare un angolo della finestra, digitare un fattore di scala (nX o nXP) o
+[Tutto/Centrato/Dinamico/Estensioni/Precedente/scAla/Finestra/Oggetto] <tempo reale>: _E

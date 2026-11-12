@@ -1,0 +1,158 @@
+;Tecnigrafo 0.8 - testo multiriga
+CMDECHO
+1
+MEASUREMENT
+1
+INSUNITS
+4
+OSMODE
+0
+OSNAPCOORD
+1
+ORTHOMODE
+0
+SNAPMODE
+0
+DYNMODE
+0
+TEXTSIZE
+2.5
+;stile con arial.ttf, che ha le stesse misure di Liberation Sans
+_-STYLE
+ARIAL
+arial.ttf
+0
+1
+0
+_N
+_N
+;a: larghezza 0, senza a capo
+_-MTEXT
+0,0
+_W
+0
+Larghezza zero: una riga sola anche se lunga quanto questa frase
+
+;b: larghezza 60, due paragrafi, una parola piu' larga della colonna
+_-MTEXT
+0,-20
+_W
+60
+Primo paragrafo con abbastanza parole da andare a capo dentro la colonna larga sessanta.
+Secondo paragrafo: Parolalunghissimasenzaspazichenonentranellacolonnadisessantamillimetri e poi altre parole.
+
+;c: i nove punti di allineamento, larghezza 30, due righe
+_-MTEXT
+150,0
+_J
+_TL
+_W
+30
+TL riga uno
+TL riga due
+
+_-MTEXT
+200,0
+_J
+_TC
+_W
+30
+TC riga uno
+TC riga due
+
+_-MTEXT
+250,0
+_J
+_TR
+_W
+30
+TR riga uno
+TR riga due
+
+_-MTEXT
+150,-30
+_J
+_ML
+_W
+30
+ML riga uno
+ML riga due
+
+_-MTEXT
+200,-30
+_J
+_MC
+_W
+30
+MC riga uno
+MC riga due
+
+_-MTEXT
+250,-30
+_J
+_MR
+_W
+30
+MR riga uno
+MR riga due
+
+_-MTEXT
+150,-60
+_J
+_BL
+_W
+30
+BL riga uno
+BL riga due
+
+_-MTEXT
+200,-60
+_J
+_BC
+_W
+30
+BC riga uno
+BC riga due
+
+_-MTEXT
+250,-60
+_J
+_BR
+_W
+30
+BR riga uno
+BR riga due
+
+;d: interlinea almeno 1.5x, larghezza 40
+_-MTEXT
+0,-80
+_L
+_A
+1.5x
+_W
+40
+Interlinea uno e mezzo
+seconda riga
+terza riga
+
+;e: rotazione 30, larghezza 40
+_-MTEXT
+0,-120
+_R
+30
+_W
+40
+Testo ruotato di trenta gradi
+seconda riga
+
+;f: formati: font, altezza, colore, frazione
+_-MTEXT
+0,-160
+_W
+100
+Normale {\fArial|b1|i0|c0|p34;grassetto} {\H5;alto cinque} {\C1;rosso} frazione \S1/2; fine
+
+TEXTSTYLE
+Standard
+_ZOOM
+_E
