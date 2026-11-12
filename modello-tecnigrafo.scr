@@ -1,0 +1,67 @@
+;Tecnigrafo - modello per i disegni di prova
+;da eseguire in un disegno nuovo "senza modello - Metrico"
+CMDECHO
+1
+;unita': millimetri, decimali, gradi, angoli antiorari da est
+MEASUREMENT
+1
+INSUNITS
+4
+LUNITS
+2
+LUPREC
+4
+AUNITS
+0
+AUPREC
+0
+ANGBASE
+0
+ANGDIR
+0
+;sistema di coordinate globale
+_UCS
+_W
+;proprieta' correnti
+CLAYER
+0
+CECOLOR
+BYLAYER
+CELTYPE
+BYLAYER
+CELWEIGHT
+-1
+CELTSCALE
+1
+LTSCALE
+1
+PSLTSCALE
+1
+;modi salvati nel disegno
+ORTHOMODE
+0
+SNAPMODE
+0
+GRIDMODE
+0
+FILLMODE
+1
+QTEXTMODE
+0
+MIRRTEXT
+0
+PDMODE
+0
+PDSIZE
+0
+;testo
+TEXTSTYLE
+Standard
+TEXTSIZE
+2.5
+;stile di quota: ISO-25 corrente (senza modello non c'e' Standard), e suo stato
+-DIMSTYLE
+_R
+ISO-25
+-DIMSTYLE
+_ST
