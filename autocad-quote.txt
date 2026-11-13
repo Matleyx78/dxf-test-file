@@ -1,0 +1,340 @@
+Comando: CMDECHO
+Digitare nuovo valore per CMDECHO <1>: 1
+Comando: MEASUREMENT
+Digitare nuovo valore per MEASUREMENT <1>: 1
+Comando: INSUNITS
+Digitare nuovo valore per INSUNITS <4>: 4
+Comando: OSMODE
+Digitare nuovo valore per OSMODE <0>: 0
+Comando: OSNAPCOORD
+Digitare nuovo valore per OSNAPCOORD <1>: 1
+Comando: ORTHOMODE
+Digitare nuovo valore per ORTHOMODE <0>: 0
+Comando: SNAPMODE
+Digitare nuovo valore per SNAPMODE <0>: 0
+Comando: DYNMODE
+Digitare nuovo valore per DYNMODE <0>: 0
+Comando: MIRRTEXT
+Digitare nuovo valore per MIRRTEXT <0>: 0
+Comando: CECOLOR
+Digitare nuovo valore per CECOLOR <"DALAYER">: BYLAYER
+Comando: CLAYER
+Digitare nuovo valore per CLAYER <"0">: 0
+Comando: TEXTSTYLE
+Digitare nuovo valore per TEXTSTYLE <"Standard">: Standard
+Comando: _-DIMSTYLE
+Stile di quota corrente:  ISO-25   Annotativo: No
+Digitare un'opzione per lo stile di quota
+[ANnotativo/SAlva/Ripristina/STato/Variabili/Applica/?] <Ripristina>: _R
+Digitare un nome di stile di quota, [?] o <seleziona quota>: ISO-25
+Stile di quota corrente:  ISO-25   Annotativo: No
+Comando: _LINE
+Specificare primo punto: 200,0
+Specificare punto successivo o [Annulla]: 240,0
+Specificare punto successivo o [Annulla]:
+Comando: _LINE
+Specificare primo punto: 200,0
+Specificare punto successivo o [Annulla]: 230,20
+Specificare punto successivo o [Annulla]:
+Comando: _CIRCLE
+Specificare punto centrale del cerchio o [3P/2P/Ttr (tangente tangente raggio)]: 280,10
+Specificare raggio del cerchio o [Diametro]: 10
+Comando: _CIRCLE
+Specificare punto centrale del cerchio o [3P/2P/Ttr (tangente tangente raggio)]: 330,10
+Specificare raggio del cerchio o [Diametro] <10.0000>: 10
+Comando: _ARC
+Specificare punto iniziale dell'arco o [Centro]: _C
+Specificare il centro dell'arco: 380,10
+Specificare punto iniziale dell'arco: 390,10
+Specificare il punto finale dell'arco (tenere premuto CTRL per cambiare direzione) o [Angolo/Lunghezza corda]: 370,10
+Comando: _ARC
+Specificare punto iniziale dell'arco o [Centro]: _C
+Specificare il centro dell'arco: 420,10
+Specificare punto iniziale dell'arco: 430,10
+Specificare il punto finale dell'arco (tenere premuto CTRL per cambiare direzione) o [Angolo/Lunghezza corda]: 410,10
+Comando: _CIRCLE
+Specificare punto centrale del cerchio o [3P/2P/Ttr (tangente tangente raggio)]: 250,-60
+Specificare raggio del cerchio o [Diametro] <10.0000>: 2
+Comando: _CIRCLE
+Specificare punto centrale del cerchio o [3P/2P/Ttr (tangente tangente raggio)]: 280,-60
+Specificare raggio del cerchio o [Diametro] <2.0000>: 2
+Comando: _CIRCLE
+Specificare punto centrale del cerchio o [3P/2P/Ttr (tangente tangente raggio)]: 310,-60
+Specificare raggio del cerchio o [Diametro] <2.0000>: 2
+Comando: _CIRCLE
+Specificare punto centrale del cerchio o [3P/2P/Ttr (tangente tangente raggio)]: 130,-140
+Specificare raggio del cerchio o [Diametro] <2.0000>: 10
+Comando: _ZOOM
+Specificare un angolo della finestra, digitare un fattore di scala (nX o nXP) o
+[Tutto/Centrato/Dinamico/Estensioni/Precedente/scAla/Finestra/Oggetto] <tempo reale>: _E
+Comando: _DIMLINEAR
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 0,0
+Specificare l'origine della seconda linea di estensione: 40,0
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo/Orizzontale/Verticale/Ruotato]: 20,10
+Testo di quota = 40
+Comando: _DIMLINEAR
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 60,0
+Specificare l'origine della seconda linea di estensione: 60,30
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo/Orizzontale/Verticale/Ruotato]: _V
+Specificare la posizione della linea di quota o [testoM/Testo/Angolo]: 70,15
+Testo di quota = 30
+Comando: _DIMLINEAR
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 90,0
+Specificare l'origine della seconda linea di estensione: 120,20
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo/Orizzontale/Verticale/Ruotato]: _R
+Specificare l'angolo della linea di quota <0>: 30
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo/Orizzontale/Verticale/Ruotato]: 100,25
+Testo di quota = 35.98
+Comando: _DIMALIGNED
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 140,0
+Specificare l'origine della seconda linea di estensione: 160,20
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo]: 145,25
+Testo di quota = 28.28
+Comando: _DIMANGULAR
+Selezionare un arco, un cerchio o una linea o <Specifica vertice>: 220,0
+Selezionare la seconda linea: 215,10
+Specificare la posizione dell'arco di quota o [testoM/Testo/Angolo/Quadrante]: 235,8
+Testo di quota = 34
+Comando: _DIMRADIUS
+Selezionare un arco o un cerchio: 290,10
+Testo di quota = 10
+Specificare la posizione della linea di quota o [testoM/Testo/Angolo]: 300,20
+Comando: _DIMDIAMETER
+Selezionare un arco o un cerchio: 340,10
+Testo di quota = 20
+Specificare la posizione della linea di quota o [testoM/Testo/Angolo]: 350,25
+Comando: _DIMRADIUS
+Selezionare un arco o un cerchio: 380,20
+Testo di quota = 10
+Specificare la posizione della linea di quota o [testoM/Testo/Angolo]: 390,25
+Comando: _DIMDIAMETER
+Selezionare un arco o un cerchio: 420,20
+Testo di quota = 20
+Specificare la posizione della linea di quota o [testoM/Testo/Angolo]: 425,30
+Comando: _DIMLINEAR
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 0,-60
+Specificare l'origine della seconda linea di estensione: 20,-60
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo/Orizzontale/Verticale/Ruotato]: 10,-50
+Testo di quota = 20
+Comando: _DIMLINEAR
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 40,-60
+Specificare l'origine della seconda linea di estensione: 48,-60
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo/Orizzontale/Verticale/Ruotato]: 44,-50
+Testo di quota = 8
+Comando: _DIMLINEAR
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 68,-60
+Specificare l'origine della seconda linea di estensione: 74,-60
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo/Orizzontale/Verticale/Ruotato]: 71,-50
+Testo di quota = 6
+Comando: _DIMLINEAR
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 94,-60
+Specificare l'origine della seconda linea di estensione: 99,-60
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo/Orizzontale/Verticale/Ruotato]: 96.5,-50
+Testo di quota = 5
+Comando: _DIMLINEAR
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 119,-60
+Specificare l'origine della seconda linea di estensione: 123,-60
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo/Orizzontale/Verticale/Ruotato]: 121,-50
+Testo di quota = 4
+Comando: _DIMLINEAR
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 143,-60
+Specificare l'origine della seconda linea di estensione: 146,-60
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo/Orizzontale/Verticale/Ruotato]: 144.5,-50
+Testo di quota = 3
+Comando: _DIMLINEAR
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 166,-60
+Specificare l'origine della seconda linea di estensione: 167.5,-60
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo/Orizzontale/Verticale/Ruotato]: 166.75,-50
+Testo di quota = 1.5
+Comando: _DIMALIGNED
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 0,-100
+Specificare l'origine della seconda linea di estensione: 16,-88
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo]: 3.2,-87.6
+Testo di quota = 20
+Comando: _DIMALIGNED
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 40,-100
+Specificare l'origine della seconda linea di estensione: 46.4,-95.2
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo]: 38.4,-91.2
+Testo di quota = 8
+Comando: _DIMALIGNED
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 68,-100
+Specificare l'origine della seconda linea di estensione: 72.8,-96.4
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo]: 65.6,-91.8
+Testo di quota = 6
+Comando: _DIMALIGNED
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 94,-100
+Specificare l'origine della seconda linea di estensione: 98,-97
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo]: 91.2,-92.1
+Testo di quota = 5
+Comando: _DIMALIGNED
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 119,-100
+Specificare l'origine della seconda linea di estensione: 122.2,-97.6
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo]: 115.8,-92.4
+Testo di quota = 4
+Comando: _DIMALIGNED
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 143,-100
+Specificare l'origine della seconda linea di estensione: 145.4,-98.2
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo]: 139.4,-92.7
+Testo di quota = 3
+Comando: _DIMALIGNED
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 166,-100
+Specificare l'origine della seconda linea di estensione: 167.2,-99.1
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo]: 161.8,-93.15
+Testo di quota = 1.5
+Comando: _DIMRADIUS
+Selezionare un arco o un cerchio: 252,-60
+Testo di quota = 2
+Specificare la posizione della linea di quota o [testoM/Testo/Angolo]: 258,-55
+Comando: _DIMDIAMETER
+Selezionare un arco o un cerchio: 282,-60
+Testo di quota = 4
+Specificare la posizione della linea di quota o [testoM/Testo/Angolo]: 288,-55
+Comando: _DIMRADIUS
+Selezionare un arco o un cerchio: 312,-60
+Testo di quota = 2
+Specificare la posizione della linea di quota o [testoM/Testo/Angolo]: 310.5,-59.5
+Comando: DIMTAD
+Digitare nuovo valore per DIMTAD <1>: 0
+Comando: DIMDEC
+Digitare nuovo valore per DIMDEC <2>: 3
+Comando: DIMDSEP
+Digitare nuovo valore per DIMDSEP <",">: .
+Comando: DIMTXT
+Digitare nuovo valore per DIMTXT <2.5000>: 3.5
+Comando: _-DIMSTYLE
+Stile di quota corrente:  ISO-25   Annotativo: No
+Modifiche locali alla quota corrente:
+ DIMDEC      3
+ DIMDSEP     .
+ DIMTAD      0
+ DIMTXT      3.5000
+Digitare un'opzione per lo stile di quota
+[ANnotativo/SAlva/Ripristina/STato/Variabili/Applica/?] <Ripristina>: _S
+Digitare il nome del nuovo stile di quota o [?]: PROVA
+Comando: _DIMLINEAR
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 0,-150
+Specificare l'origine della seconda linea di estensione: 40,-150
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo/Orizzontale/Verticale/Ruotato]: 20,-140
+Testo di quota = 40
+Comando: _DIMALIGNED
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 60,-150
+Specificare l'origine della seconda linea di estensione: 92,-126
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo]: 70,-128
+Testo di quota = 40
+Comando: _DIMRADIUS
+Selezionare un arco o un cerchio: 140,-140
+Testo di quota = 10
+Specificare la posizione della linea di quota o [testoM/Testo/Angolo]: 150,-130
+Comando: _-DIMSTYLE
+Stile di quota corrente:  PROVA   Annotativo: No
+Digitare un'opzione per lo stile di quota
+[ANnotativo/SAlva/Ripristina/STato/Variabili/Applica/?] <Ripristina>: _R
+Digitare un nome di stile di quota, [?] o <seleziona quota>: ISO-25
+Stile di quota corrente:  ISO-25   Annotativo: No
+Comando: _DIMLINEAR
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 0,-200
+Specificare l'origine della seconda linea di estensione: 40,-200
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo/Orizzontale/Verticale/Ruotato]: _T
+Digitare il testo di quota <40>: <> mm
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo/Orizzontale/Verticale/Ruotato]: 20,-190
+Testo di quota = 40
+Comando: _DIMLINEAR
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 60,-200
+Specificare l'origine della seconda linea di estensione: 100,-200
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo/Orizzontale/Verticale/Ruotato]: 80,-190
+Testo di quota = 40
+Comando: _ROTATE
+Angolo positivo corrente in UCS:  ANGDIR=antiorario  ANGBASE=0
+Selezionare oggetti: _L
+trovato(i) 1
+Selezionare oggetti:
+Specificare punto base: 60,-200
+Specificare angolo di rotazione o [Copia/Riferimento] <0>: 30
+Comando: _DIMLINEAR
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 120,-200
+Specificare l'origine della seconda linea di estensione: 160,-200
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo/Orizzontale/Verticale/Ruotato]: 140,-190
+Testo di quota = 40
+Comando: _SCALE
+Selezionare oggetti: _L
+trovato(i) 1
+Selezionare oggetti:
+Specificare punto base: 120,-200
+Specificare fattore di scala o [Copia/Riferimento]: 2
+Comando: _DIMLINEAR
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 250,-200
+Specificare l'origine della seconda linea di estensione: 290,-200
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo/Orizzontale/Verticale/Ruotato]: 270,-190
+Testo di quota = 40
+Comando: _MIRROR
+Selezionare oggetti: _L
+trovato(i) 1
+Selezionare oggetti:
+Specificare primo punto della linea speculare: 300,-220
+Specificare un secondo punto della linea speculare: 300,-180
+Cancellare gli oggetti sorgente? [Sì/No] <No>: _N
+Comando: _DIMORDINATE
+Specificare la posizione della lavorazione:0,-250
+Creata quota non associativa.
+Specificare il punto finale della direttrice o [X/Y/testoM/Testo/Angolo]: _X
+Specificare il punto finale della direttrice o [X/Y/testoM/Testo/Angolo]: 0,-235
+Testo di quota = 0
+Comando: _DIMORDINATE
+Specificare la posizione della lavorazione:20,-250
+Creata quota non associativa.
+Specificare il punto finale della direttrice o [X/Y/testoM/Testo/Angolo]: _Y
+Specificare il punto finale della direttrice o [X/Y/testoM/Testo/Angolo]: 35,-250
+Testo di quota = 250
+Comando: _ZOOM
+Specificare un angolo della finestra, digitare un fattore di scala (nX o nXP) o
+[Tutto/Centrato/Dinamico/Estensioni/Precedente/scAla/Finestra/Oggetto] <tempo reale>: _E
