@@ -1,0 +1,92 @@
+Comando: CMDECHO
+Digitare nuovo valore per CMDECHO <1>: 1
+Comando: MEASUREMENT
+Digitare nuovo valore per MEASUREMENT <1>: 1
+Comando: INSUNITS
+Digitare nuovo valore per INSUNITS <4>: 4
+Comando: OSMODE
+Digitare nuovo valore per OSMODE <0>: 0
+Comando: OSNAPCOORD
+Digitare nuovo valore per OSNAPCOORD <1>: 1
+Comando: ORTHOMODE
+Digitare nuovo valore per ORTHOMODE <0>: 0
+Comando: SNAPMODE
+Digitare nuovo valore per SNAPMODE <0>: 0
+Comando: DYNMODE
+Digitare nuovo valore per DYNMODE <0>: 0
+Comando: CECOLOR
+Digitare nuovo valore per CECOLOR <"DALAYER">: BYLAYER
+Comando: CLAYER
+Digitare nuovo valore per CLAYER <"0">: 0
+Comando: TEXTSTYLE
+Digitare nuovo valore per TEXTSTYLE <"Standard">: Standard
+Comando: HPASSOC
+Digitare nuovo valore per HPASSOC <1>: 1
+Comando: HPISLANDDETECTIONMODE
+Digitare nuovo valore per HPISLANDDETECTIONMODE <1>: 1
+Comando: HPSEPARATE
+Digitare nuovo valore per HPSEPARATE <0>: 0
+Comando: HPGAPTOL
+Digitare nuovo valore per HPGAPTOL <0.0000>: 0
+Comando: HPORIGINMODE
+Digitare nuovo valore per HPORIGINMODE <0>: 0
+Comando: HPDRAWORDER
+Digitare nuovo valore per HPDRAWORDER <3>: 0
+Comando: HPNAME
+Digitare nuovo valore per HPNAME <"ANGLE">: ANSI31
+Comando: HPSCALE
+Digitare nuovo valore per HPSCALE <1.0000>: 1
+Comando: HPANG
+Digitare nuovo valore per HPANG <0>: 0
+Comando: HPISLANDDETECTION
+Digitare nuovo valore per HPISLANDDETECTION <1>: 1
+Comando: _RECTANG
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: 0,0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: 60,40
+Comando: _ZOOM
+Specificare un angolo della finestra, digitare un fattore di scala (nX o nXP) o
+[Tutto/Centrato/Dinamico/Estensioni/Precedente/scAla/Finestra/Oggetto] <tempo reale>: _W
+Specificare primo angolo: -10,-10
+Specificare angolo opposto: 110,110
+Comando: HPISLANDDETECTION
+Digitare nuovo valore per HPISLANDDETECTION <1>: 3
+È richiesto un valore intero compreso tra 0 e 2.
+Digitare nuovo valore per HPISLANDDETECTION <1>: '_RESUME
+Ripresa del comando MODIVAR.
+Digitare nuovo valore per HPISLANDDETECTION <1>: 1
+Comando: _-HATCH
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]: _P
+Digitare un nome di modello o [?/Solido/Definito utente/SFumatura] <ANSI31>: PIPPO
+Il nome del modello è sconosciuto.
+Digitare un nome di modello o [?/Solido/Definito utente/SFumatura] <ANSI31>: ANSI31
+Specificare una scala per il modello <1.0000>: 0
+Il valore deve essere positivo e diverso da zero.
+Specificare una scala per il modello <1.0000>: '_RESUME
+Ripresa del comando -TRATTEGGIO.
+Specificare una scala per il modello <1.0000>: -1
+Il valore deve essere positivo e diverso da zero.
+Specificare una scala per il modello <1.0000>: '_RESUME
+Ripresa del comando -TRATTEGGIO.
+Specificare una scala per il modello <1.0000>: 1
+Specificare un angolo per il modello <0>: 0
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]:
+Comando: _-HATCH
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]: 100,100
+Selezione totale...
+Selezione di tutto quello che si può vedere...
+Analisi dei dati selezionati...
+Non è stato trovato un contorno del tratteggio valido.
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]: 30,0
+Il punto è direttamente su un oggetto.
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]: 30,20
+Analisi di isole interne in corso...
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]:
+Comando: _ZOOM
+Specificare un angolo della finestra, digitare un fattore di scala (nX o nXP) o
+[Tutto/Centrato/Dinamico/Estensioni/Precedente/scAla/Finestra/Oggetto] <tempo reale>: _E

@@ -1,0 +1,81 @@
+;Tecnigrafo 0.8 - -HATCH, errori e flusso normale (RT44)
+;disegno nuovo da acadlt-Tecnigrafo.dwt.
+;un valore rifiutato sospende lo script: alla domanda ripetuta scrivere '_RESUME e Invio,
+;la riga seguente dello script risponde. Se lo script si ferma al prompt Comando:, lo stesso '_RESUME
+CMDECHO
+1
+MEASUREMENT
+1
+INSUNITS
+4
+OSMODE
+0
+OSNAPCOORD
+1
+ORTHOMODE
+0
+SNAPMODE
+0
+DYNMODE
+0
+CECOLOR
+BYLAYER
+CLAYER
+0
+TEXTSTYLE
+Standard
+;impostazioni dei retini, come autocad-retini.scr
+HPASSOC
+1
+HPISLANDDETECTIONMODE
+1
+HPSEPARATE
+0
+HPGAPTOL
+0
+HPORIGINMODE
+0
+HPDRAWORDER
+0
+;valori del prossimo retino
+HPNAME
+ANSI31
+HPSCALE
+1
+HPANG
+0
+HPISLANDDETECTION
+1
+;--- rettangolo chiuso (polilinea) da 0,0 a 60,40; vista che comprende anche il punto 100,100
+_RECTANG
+0,0
+60,40
+_ZOOM
+_W
+-10,-10
+110,110
+;--- HPISLANDDETECTION 0..2: 3 rifiutato, poi 1
+HPISLANDDETECTION
+3
+1
+;--- Proprieta': motivo che non esiste, poi ANSI31; scala 0 e -1 rifiutate, poi 1; angolo 0
+;PIPPO: possibile una finestra di avviso (file PIPPO.pat non trovato): cattura dello schermo, OK, poi '_RESUME
+_-HATCH
+_P
+PIPPO
+ANSI31
+0
+-1
+1
+0
+;Invio senza contorni: fine del comando, nessun retino
+
+;--- punto fuori dal rettangolo, punto sul lato, punto valido; Invio crea il retino
+;100,100 e 30,0: atteso un messaggio (riga di comando o finestra) e la domanda ripetuta
+_-HATCH
+100,100
+30,0
+30,20
+
+_ZOOM
+_E
