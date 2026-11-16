@@ -1,0 +1,287 @@
+Comando: CMDECHO
+Digitare nuovo valore per CMDECHO <1>: 1
+Comando: MEASUREMENT
+Digitare nuovo valore per MEASUREMENT <1>: 1
+Comando: INSUNITS
+Digitare nuovo valore per INSUNITS <4>: 4
+Comando: OSMODE
+Digitare nuovo valore per OSMODE <0>: 0
+Comando: OSNAPCOORD
+Digitare nuovo valore per OSNAPCOORD <1>: 1
+Comando: ORTHOMODE
+Digitare nuovo valore per ORTHOMODE <0>: 0
+Comando: SNAPMODE
+Digitare nuovo valore per SNAPMODE <0>: 0
+Comando: DYNMODE
+Digitare nuovo valore per DYNMODE <0>: 0
+Comando: CECOLOR
+Digitare nuovo valore per CECOLOR <"DALAYER">: BYLAYER
+Comando: CLAYER
+Digitare nuovo valore per CLAYER <"0">: 0
+Comando: TEXTSTYLE
+Digitare nuovo valore per TEXTSTYLE <"Standard">: Standard
+Comando: _-DIMSTYLE
+Stile di quota corrente:  ISO-25   Annotativo: No
+Digitare un'opzione per lo stile di quota
+[ANnotativo/SAlva/Ripristina/STato/Variabili/Applica/?] <Ripristina>: _R
+Digitare un nome di stile di quota, [?] o <seleziona quota>: ISO-25
+Stile di quota corrente:  ISO-25   Annotativo: No
+Comando: DIMTXT
+Digitare nuovo valore per DIMTXT <2.5000>: 3.5
+Comando: _U
+DIMTXT
+Comando: DIMTXT
+Digitare nuovo valore per DIMTXT <2.5000>: 3.5
+Comando: _-DIMSTYLE
+Stile di quota corrente:  ISO-25   Annotativo: No
+Modifiche locali alla quota corrente:
+ DIMTXT      3.5000
+Digitare un'opzione per lo stile di quota
+[ANnotativo/SAlva/Ripristina/STato/Variabili/Applica/?] <Ripristina>: _ST
+DIMASO      Off                  Crea oggetti di quota
+DIMSTYLE    ISO-25               Stile di quota corrente (sola lettura)
+DIMADEC     0                    Cifre decimali angolari
+DIMALT      Off                  Le unità di misura alternative sono state selezionate
+DIMALTD     3                    Cifre decimali per le unità di misura alternative
+DIMALTF     0.0394               Fattore di scala per le unità di misura alternative
+DIMALTMZF   100.0000             Fattore sottozero alternativo per quote metriche
+DIMALTMZS                        Suffisso sottozero alternativo per quote metriche
+DIMALTRND   0.0000               Valore di arrotondamento unità alternative
+DIMALTTD    3                    Cifre decimali per le tolleranze alternative
+DIMALTTZ    0                    Soppressione degli zeri delle tolleranze alternative
+DIMALTU     2                    Unità alternative
+DIMALTZ     0                    Soppressione degli zeri delle unità alternative
+DIMAPOST                         Prefisso e suffisso per il testo alternativo
+DIMARCSYM   0                    Simbolo lunghezza arco
+DIMASZ      2.5000               Dimensione delle frecce
+DIMATFIT    3                    Adattamento freccia e testo
+DIMAUNIT    0                    Formato delle unità angolari
+DIMAZIN     0                    Soppressione zero angolare
+DIMBLK      CHIUSA PIENA         Nome del blocco freccia
+DIMBLK1     CHIUSA PIENA         Nome del primo blocco freccia
+DIMBLK2     CHIUSA PIENA         Nome del secondo blocco freccia
+DIMCEN      2.5000               Dimensione centro
+DIMCLRD     DABLOCCO             Colore della linea di quota e della linea direttrice
+DIMCLRE     DABLOCCO             Colore della linea di estensione
+DIMCLRT     DABLOCCO             Colore del testo di quota
+DIMDEC      2                    Cifre decimali
+DIMDLE      0.0000               Estensione della linea di quota
+DIMDLI      3.7500               Spaziatura della linea di quota
+DIMDSEP     ,                    Separatore decimale
+DIMEXE      1.2500               Estensione oltre la linea di quota
+DIMEXO      0.6250               Offset dall'origine della linea di estensione
+DIMFRAC     0                    Formato frazione
+DIMFXL      1.0000               Linea estensione a lunghezza fissa
+DIMFXLON    Off                  Attiva linea estensione a lunghezza fissa
+DIMGAP      0.6250               Spazio tra la linea di quota ed il testo
+DIMJOGANG   90                   Angolo di riduzione quota raggio
+DIMJUST     0                    Giustificazione del testo sulle linee di quota
+DIMLDRBLK   CHIUSA PIENA         Nome blocco direttrice
+DIMLFAC     1.0000               Fattore di scala per le unità lineari
+DIMLIM      Off                  Generare i limiti di quota
+DIMLTEX1    BYBLOCK              Estensione tipo di linea 1
+DIMLTEX2    BYBLOCK              Estensione tipo di linea 2
+DIMLTYPE    BYBLOCK              Tipo di linea di quota
+DIMLUNIT    2                    Formato unità lineare
+DIMLWD      -2                   Spessore linea di quota e linea direttrice
+DIMLWE      -2                   Spessore linea di estensione
+DIMMZF      100.0000             Fattore sottozero per quote metriche
+DIMMZS                           Suffisso sottozero pre quote metriche
+DIMPOST                          Prefisso e suffisso di default per il testo di quota
+DIMRND      0.0000               Valore di approssimazione
+DIMSAH      Off                  Blocchi freccia divisi
+DIMSCALE    1.0000               Fattore di scala generale
+DIMSD1      Off                  Soppressione della prima linea di quota
+DIMSD2      Off                  Soppressione della seconda linea di quota
+DIMSE1      Off                  Sopprimere la prima linea di estensione
+DIMSE2      Off                  Sopprimere la seconda linea di estensione
+DIMSOXD     Off                  Sopprimere le linee di quota esterne
+DIMTAD      1                    Posizionare il testo sopra la linea di quota
+DIMTDEC     2                    Cifre decimali per le tolleranze
+DIMTFAC     1.0000               Fattore di scala per l'altezza del testo di tolleranza
+DIMTFILL    0                    Sfondo testo attivato
+DIMTFILLCLR DABLOCCO             Colore sfondo testo
+DIMTIH      Off                  Il testo all'interno delle linee di estensione è orizzontale
+DIMTIX      Off                  Posizionare il testo all'interno delle estensioni
+DIMTM       0.0000               Tolleranza minore
+DIMTMOVE    0                    Spostamento testo
+DIMTOFL     On                   Forza la linea entro le linee di estensione
+DIMTOH      Off                  Testo esterno orizzontale
+DIMTOL      Off                  Tolleranza delle quotature
+DIMTOLJ     0                    Giustificazione verticale per le tolleranze
+DIMTP       0.0000               Tolleranza maggiore
+DIMTSZ      0.0000               Dimensione delle lineette
+DIMTVP      0.0000               Posizionare il testo verticalmente
+DIMTXSTY    Standard             Stile di testo
+DIMTXT      3.5000               Altezza del testo
+DIMTXTDIRECTIONOff                  Direzione testo di quota
+DIMTZIN     8                    Soppressione degli zeri delle tolleranze
+DIMUPT      Off                  Testo posizionato dall'utente
+DIMZIN      8                    Soppressione dello zero
+Comando: _-DIMSTYLE
+Stile di quota corrente:  ISO-25   Annotativo: No
+Modifiche locali alla quota corrente:
+ DIMTXT      3.5000
+Digitare un'opzione per lo stile di quota
+[ANnotativo/SAlva/Ripristina/STato/Variabili/Applica/?] <Ripristina>: ?
+Digitare stile/i di quota da elencare <*>:
+Stili di quota con nome:
+  ISO-25
+  Annotative                      Annotativo
+Comando: _-DIMSTYLE
+Stile di quota corrente:  ISO-25   Annotativo: No
+Modifiche locali alla quota corrente:
+ DIMTXT      3.5000
+Digitare un'opzione per lo stile di quota
+[ANnotativo/SAlva/Ripristina/STato/Variabili/Applica/?] <Ripristina>: ?
+Digitare stile/i di quota da elencare <*>: *
+Stili di quota con nome:
+  ISO-25
+  Annotative                      Annotativo
+Comando: _-DIMSTYLE
+Stile di quota corrente:  ISO-25   Annotativo: No
+Modifiche locali alla quota corrente:
+ DIMTXT      3.5000
+Digitare un'opzione per lo stile di quota
+[ANnotativo/SAlva/Ripristina/STato/Variabili/Applica/?] <Ripristina>: _S
+Digitare il nome del nuovo stile di quota o [?]: ISO-25
+Questo nome è già in uso, ridefinirlo? <N>:_N
+Digitare il nome del nuovo stile di quota o [?]: ISO-25
+Questo nome è già in uso, ridefinirlo? <N>:_Y
+Comando: _-DIMSTYLE
+Stile di quota corrente:  ISO-25   Annotativo: No
+Digitare un'opzione per lo stile di quota
+[ANnotativo/SAlva/Ripristina/STato/Variabili/Applica/?] <Ripristina>: _S
+Digitare il nome del nuovo stile di quota o [?]: NUOVO
+Comando: _U
+-DIMSTILE
+Comando: _-DIMSTYLE
+Stile di quota corrente:  ISO-25   Annotativo: No
+Digitare un'opzione per lo stile di quota
+[ANnotativo/SAlva/Ripristina/STato/Variabili/Applica/?] <Ripristina>: _R
+Digitare un nome di stile di quota, [?] o <seleziona quota>: NONC
+Stile di quota sconosciuto.
+Stile di quota corrente:  ISO-25   Annotativo: No
+Comando: DIMDEC
+Digitare nuovo valore per DIMDEC <2>: 9
+È richiesto un valore intero compreso tra 0 e 8.
+Digitare nuovo valore per DIMDEC <2>: '_RESUME
+Ripresa del comando MODIVAR.
+Digitare nuovo valore per DIMDEC <2>: 2
+Comando: DIMTAD
+Digitare nuovo valore per DIMTAD <1>: 5
+Impossibile impostare DIMTAD a quel valore.
+*Non valido*
+Comando: '_RESUME
+Comando: DIMTXT
+Digitare nuovo valore per DIMTXT <3.5000>: -1
+Impossibile impostare DIMTXT a quel valore.
+*Non valido*
+Comando: '_RESUME
+Comando: DIMTXT
+Digitare nuovo valore per DIMTXT <3.5000>: 0
+Impossibile impostare DIMTXT a quel valore.
+*Non valido*
+Comando: '_RESUME
+Comando: DIMDSEP
+Digitare nuovo valore per DIMDSEP <",">: ab
+Impossibile impostare DIMDSEP a quel valore.
+*Non valido*
+Comando: '_RESUME
+Comando: DIMTXSTY
+Digitare nuovo valore per DIMTXSTY <"Standard">: NONC
+Impossibile impostare DIMTXSTY a quel valore.
+*Non valido*
+Comando: '_RESUME
+Comando: DIMLFAC
+Digitare nuovo valore per DIMLFAC <1.0000>: 0
+Impossibile impostare DIMLFAC a quel valore.
+*Non valido*
+Comando: '_RESUME
+Comando: _-DIMSTYLE
+Stile di quota corrente:  ISO-25   Annotativo: No
+Digitare un'opzione per lo stile di quota
+[ANnotativo/SAlva/Ripristina/STato/Variabili/Applica/?] <Ripristina>: _ST
+DIMASO      Off                  Crea oggetti di quota
+DIMSTYLE    ISO-25               Stile di quota corrente (sola lettura)
+DIMADEC     0                    Cifre decimali angolari
+DIMALT      Off                  Le unità di misura alternative sono state selezionate
+DIMALTD     3                    Cifre decimali per le unità di misura alternative
+DIMALTF     0.0394               Fattore di scala per le unità di misura alternative
+DIMALTMZF   100.0000             Fattore sottozero alternativo per quote metriche
+DIMALTMZS                        Suffisso sottozero alternativo per quote metriche
+DIMALTRND   0.0000               Valore di arrotondamento unità alternative
+DIMALTTD    3                    Cifre decimali per le tolleranze alternative
+DIMALTTZ    0                    Soppressione degli zeri delle tolleranze alternative
+DIMALTU     2                    Unità alternative
+DIMALTZ     0                    Soppressione degli zeri delle unità alternative
+DIMAPOST                         Prefisso e suffisso per il testo alternativo
+DIMARCSYM   0                    Simbolo lunghezza arco
+DIMASZ      2.5000               Dimensione delle frecce
+DIMATFIT    3                    Adattamento freccia e testo
+DIMAUNIT    0                    Formato delle unità angolari
+DIMAZIN     0                    Soppressione zero angolare
+DIMBLK      CHIUSA PIENA         Nome del blocco freccia
+DIMBLK1     CHIUSA PIENA         Nome del primo blocco freccia
+DIMBLK2     CHIUSA PIENA         Nome del secondo blocco freccia
+DIMCEN      2.5000               Dimensione centro
+DIMCLRD     DABLOCCO             Colore della linea di quota e della linea direttrice
+DIMCLRE     DABLOCCO             Colore della linea di estensione
+DIMCLRT     DABLOCCO             Colore del testo di quota
+DIMDEC      2                    Cifre decimali
+DIMDLE      0.0000               Estensione della linea di quota
+DIMDLI      3.7500               Spaziatura della linea di quota
+DIMDSEP     ,                    Separatore decimale
+DIMEXE      1.2500               Estensione oltre la linea di quota
+DIMEXO      0.6250               Offset dall'origine della linea di estensione
+DIMFRAC     0                    Formato frazione
+DIMFXL      1.0000               Linea estensione a lunghezza fissa
+DIMFXLON    Off                  Attiva linea estensione a lunghezza fissa
+DIMGAP      0.6250               Spazio tra la linea di quota ed il testo
+DIMJOGANG   90                   Angolo di riduzione quota raggio
+DIMJUST     0                    Giustificazione del testo sulle linee di quota
+DIMLDRBLK   CHIUSA PIENA         Nome blocco direttrice
+DIMLFAC     1.0000               Fattore di scala per le unità lineari
+DIMLIM      Off                  Generare i limiti di quota
+DIMLTEX1    BYBLOCK              Estensione tipo di linea 1
+DIMLTEX2    BYBLOCK              Estensione tipo di linea 2
+DIMLTYPE    BYBLOCK              Tipo di linea di quota
+DIMLUNIT    2                    Formato unità lineare
+DIMLWD      -2                   Spessore linea di quota e linea direttrice
+DIMLWE      -2                   Spessore linea di estensione
+DIMMZF      100.0000             Fattore sottozero per quote metriche
+DIMMZS                           Suffisso sottozero pre quote metriche
+DIMPOST                          Prefisso e suffisso di default per il testo di quota
+DIMRND      0.0000               Valore di approssimazione
+DIMSAH      Off                  Blocchi freccia divisi
+DIMSCALE    1.0000               Fattore di scala generale
+DIMSD1      Off                  Soppressione della prima linea di quota
+DIMSD2      Off                  Soppressione della seconda linea di quota
+DIMSE1      Off                  Sopprimere la prima linea di estensione
+DIMSE2      Off                  Sopprimere la seconda linea di estensione
+DIMSOXD     Off                  Sopprimere le linee di quota esterne
+DIMTAD      1                    Posizionare il testo sopra la linea di quota
+DIMTDEC     2                    Cifre decimali per le tolleranze
+DIMTFAC     1.0000               Fattore di scala per l'altezza del testo di tolleranza
+DIMTFILL    0                    Sfondo testo attivato
+DIMTFILLCLR DABLOCCO             Colore sfondo testo
+DIMTIH      Off                  Il testo all'interno delle linee di estensione è orizzontale
+DIMTIX      Off                  Posizionare il testo all'interno delle estensioni
+DIMTM       0.0000               Tolleranza minore
+DIMTMOVE    0                    Spostamento testo
+DIMTOFL     On                   Forza la linea entro le linee di estensione
+DIMTOH      Off                  Testo esterno orizzontale
+DIMTOL      Off                  Tolleranza delle quotature
+DIMTOLJ     0                    Giustificazione verticale per le tolleranze
+DIMTP       0.0000               Tolleranza maggiore
+DIMTSZ      0.0000               Dimensione delle lineette
+DIMTVP      0.0000               Posizionare il testo verticalmente
+DIMTXSTY    Standard             Stile di testo
+DIMTXT      3.5000               Altezza del testo
+DIMTXTDIRECTIONOff                  Direzione testo di quota
+DIMTZIN     8                    Soppressione degli zeri delle tolleranze
+DIMUPT      Off                  Testo posizionato dall'utente
+DIMZIN      8                    Soppressione dello zero
+Comando: _ZOOM
+Specificare un angolo della finestra, digitare un fattore di scala (nX o nXP) o
+[Tutto/Centrato/Dinamico/Estensioni/Precedente/scAla/Finestra/Oggetto] <tempo reale>: _E

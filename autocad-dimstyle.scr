@@ -1,0 +1,82 @@
+;Tecnigrafo 0.8 - -DIMSTYLE e variabili di quota (RT28)
+;disegno nuovo da acadlt-Tecnigrafo.dwt.
+;un valore rifiutato sospende lo script: scrivere '_RESUME e Invio (7 volte, nei valori fuori dai limiti)
+CMDECHO
+1
+MEASUREMENT
+1
+INSUNITS
+4
+OSMODE
+0
+OSNAPCOORD
+1
+ORTHOMODE
+0
+SNAPMODE
+0
+DYNMODE
+0
+CECOLOR
+BYLAYER
+CLAYER
+0
+TEXTSTYLE
+Standard
+_-DIMSTYLE
+_R
+ISO-25
+;--- DIMTXT 3.5 e subito U; di nuovo DIMTXT 3.5, poi STato
+DIMTXT
+3.5
+_U
+DIMTXT
+3.5
+_-DIMSTYLE
+_ST
+;--- elenco degli stili, con Invio e con *
+_-DIMSTYLE
+?
+
+_-DIMSTYLE
+?
+*
+;--- SAlva su ISO-25: N (AutoCAD richiede il nome), poi di nuovo ISO-25 e Y (ridefinito con DIMTXT 3.5)
+_-DIMSTYLE
+_S
+ISO-25
+_N
+ISO-25
+_Y
+;--- SAlva con un nome nuovo, poi subito U
+_-DIMSTYLE
+_S
+NUOVO
+_U
+;--- Ripristina di uno stile che non c'e' (messaggio, il comando finisce)
+_-DIMSTYLE
+_R
+NONC
+;--- valori fuori dai limiti
+;DIMDEC 0..8: rifiutato, la domanda si ripete: '_RESUME e risponde il 2 della riga dopo
+DIMDEC
+9
+2
+;gli altri: "Impossibile impostare ... a quel valore. *Non valido*", il comando finisce: '_RESUME a Comando:
+DIMTAD
+5
+DIMTXT
+-1
+DIMTXT
+0
+DIMDSEP
+ab
+DIMTXSTY
+NONC
+DIMLFAC
+0
+;--- stato finale
+_-DIMSTYLE
+_ST
+_ZOOM
+_E
