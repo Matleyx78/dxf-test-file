@@ -1,0 +1,253 @@
+;Tecnigrafo 0.8.1 - attributi (-ATTDEF, -INSERT con ATTREQ 1, -ATTEDIT)
+;disegno nuovo dal modello acadlt-Tecnigrafo.dwt
+;--- variabili del profilo e correnti
+CMDECHO
+1
+MEASUREMENT
+1
+INSUNITS
+4
+OSMODE
+0
+OSNAPCOORD
+1
+ORTHOMODE
+0
+SNAPMODE
+0
+DYNMODE
+0
+MIRRTEXT
+0
+ATTREQ
+1
+ATTDIA
+0
+ATTMODE
+1
+TEXTSIZE
+2.5
+CECOLOR
+BYLAYER
+CLAYER
+0
+TEXTSTYLE
+Standard
+;layer blu per -ATTEDIT Layer; stile con arial.ttf per -ATTDEF STile e -ATTEDIT Style
+_-LAYER
+_M
+ATTRIBUTI
+_C
+5
+ATTRIBUTI
+
+CLAYER
+0
+_-STYLE
+ARIAL
+arial.ttf
+0
+1
+0
+_N
+_N
+TEXTSTYLE
+Standard
+;--- definizione COMPONENTE: rettangolo 40x20 e sei ATTDEF, un modo ciascuno
+;    AFLAGS 0 prima di ogni -ATTDEF, poi il modo acceso dalla domanda del comando
+_RECTANG
+0,0
+40,20
+;1 nessun modo
+AFLAGS
+0
+_-ATTDEF
+
+CODICE
+Codice componente
+K1
+2,15
+2.5
+0
+;2 Invisible
+AFLAGS
+0
+_-ATTDEF
+_I
+
+NOTA
+Nota di montaggio
+da cablare
+2,11
+2.5
+0
+;3 Constant (chiede il valore, non la richiesta)
+AFLAGS
+0
+_-ATTDEF
+_C
+
+COSTRUTTORE
+ACME
+2,7
+2.5
+0
+;4 Verify, con lo stile ARIAL scelto dalla domanda del testo
+AFLAGS
+0
+_-ATTDEF
+_V
+
+TENSIONE
+Tensione
+24V
+_S
+ARIAL
+22,15
+2.5
+0
+TEXTSTYLE
+Standard
+;5 Preset
+AFLAGS
+0
+_-ATTDEF
+_P
+
+POSIZIONE
+Posizione
+Q1
+22,11
+2.5
+0
+;6 Lock position, giustificato al centro (MC) e ruotato di 10 gradi
+AFLAGS
+0
+_-ATTDEF
+_L
+
+SIGLA
+Sigla
+S1
+_J
+_MC
+30,5
+2.5
+10
+AFLAGS
+0
+_-BLOCK
+COMPONENTE
+0,0
+_ALL
+
+;--- inserimenti con ATTREQ 1: chiede i valori (non Constant ne' Preset) nell'ordine
+;    della definizione, che con _ALL e' l'inverso della creazione: SIGLA, TENSIONE,
+;    NOTA, CODICE; poi di nuovo TENSIONE (Verify)
+;I1 a 0,-40: valori scritti
+_-INSERT
+COMPONENTE
+0,-40
+1
+
+0
+S10
+230V
+montaggio a quadro
+K10
+230V
+;I2 a 60,-40: Invio a ogni domanda, cioe' i predefiniti proposti
+_-INSERT
+COMPONENTE
+60,-40
+1
+
+0
+
+
+
+
+
+;I3 a 120,-40: valori scritti
+_-INSERT
+COMPONENTE
+120,-40
+1
+
+0
+S30
+400V
+da cablare
+K30
+400V
+;--- le finestre di selezione vogliono gli oggetti a schermo: zoom sugli inserimenti
+_ZOOM
+_W
+-10,-60
+180,10
+;--- -ATTEDIT uno per uno (Selezionare attributi prende una sola selezione, senza Invio)
+;su I1, attributo CODICE: valore sostituito, posizione, altezza, angolo, stile, layer, colore
+_-ATTEDIT
+_Y
+COMPONENTE
+CODICE
+*
+_C
+-1,-41
+41,-19
+_V
+_R
+K11
+_P
+5,-27
+_H
+3.5
+_A
+15
+_S
+ARIAL
+_L
+ATTRIBUTI
+_C
+1
+_N
+;su I3, attributo SIGLA (posizione bloccata): valore cambiato in parte, 30 -> 31
+_-ATTEDIT
+_Y
+COMPONENTE
+SIGLA
+*
+_C
+119,-41
+161,-19
+_V
+_C
+30
+31
+_N
+;--- -ATTEDIT globale
+;tutti, anche non visibili: blocco COMPONENTE, etichetta NOTA, ogni valore; cablare -> verificare
+_-ATTEDIT
+_N
+_N
+COMPONENTE
+NOTA
+*
+cablare
+verificare
+;solo visibili, con selezione: ogni blocco, etichetta CODICE, valori K*; K -> KA
+_-ATTEDIT
+_N
+_Y
+*
+CODICE
+K*
+_C
+-1,-41
+161,-19
+K
+KA
+TEXTSTYLE
+Standard
+_ZOOM
+_E

@@ -1,0 +1,282 @@
+Comando: CMDECHO
+Digitare nuovo valore per CMDECHO <1>: 1
+Comando: MEASUREMENT
+Digitare nuovo valore per MEASUREMENT <1>: 1
+Comando: INSUNITS
+Digitare nuovo valore per INSUNITS <4>: 4
+Comando: OSMODE
+Digitare nuovo valore per OSMODE <0>: 0
+Comando: OSNAPCOORD
+Digitare nuovo valore per OSNAPCOORD <1>: 1
+Comando: ORTHOMODE
+Digitare nuovo valore per ORTHOMODE <0>: 0
+Comando: SNAPMODE
+Digitare nuovo valore per SNAPMODE <0>: 0
+Comando: DYNMODE
+Digitare nuovo valore per DYNMODE <0>: 0
+Comando: MIRRTEXT
+Digitare nuovo valore per MIRRTEXT <0>: 0
+Comando: ATTREQ
+Digitare nuovo valore per ATTREQ <1>: 1
+Comando: ATTDIA
+Digitare nuovo valore per ATTDIA <0>: 0
+Comando: ATTMODE
+Digitare nuovo valore per ATTMODE <1>: 1
+Comando: TEXTSIZE
+Digitare nuovo valore per TEXTSIZE <2.5000>: 2.5
+Comando: CECOLOR
+Digitare nuovo valore per CECOLOR <"DALAYER">: BYLAYER
+Comando: CLAYER
+Digitare nuovo valore per CLAYER <"0">: 0
+Comando: TEXTSTYLE
+Digitare nuovo valore per TEXTSTYLE <"Standard">: Standard
+Comando: _-LAYER
+Layer corrente:  "0"
+Digitare un'opzione [?/Def/coRrente/Nuovo/RInomina/ON/OFF/Colore/Tipolinea/SPesslin/TRasparenza/MAteriali/Stampa/conGela/SCongela/BLocca/SBlocca/stAto/DEScrizione/RIConcilia/Xrif]: _M
+Digitare nome del nuovo layer (che diventerà il layer corrente) <0>: ATTRIBUTI
+Digitare un'opzione [?/Def/coRrente/Nuovo/RInomina/ON/OFF/Colore/Tipolinea/SPesslin/TRasparenza/MAteriali/Stampa/conGela/SCongela/BLocca/SBlocca/stAto/DEScrizione/RIConcilia/Xrif]: _C
+Nuovo colore [Truecolor/CAtalogocolori] : 5
+Digitare elenco nomi di layer per il colore 5 (blu) <ATTRIBUTI>: ATTRIBUTI
+Digitare un'opzione [?/Def/coRrente/Nuovo/RInomina/ON/OFF/Colore/Tipolinea/SPesslin/TRasparenza/MAteriali/Stampa/conGela/SCongela/BLocca/SBlocca/stAto/DEScrizione/RIConcilia/Xrif]:
+Comando: CLAYER
+Digitare nuovo valore per CLAYER <"ATTRIBUTI">: 0
+Comando: _-STYLE
+Digitare nome dello stile di testo o [?] <Standard>: ARIAL
+Nuovo stile.
+Specificare nome di font o nome del file di font (per SHX) <txt>: arial.ttf
+Specificare l'altezza testo o [Annotativo] <0.0000>: 0
+Specificare fattore di larghezza <1.0000>: 1
+Specificare angolo d'inclinazione <0>: 0
+Visualizzare testo in senso contrario? [Sì/No] <No>: _N
+Visualizzare testo capovolto? [Sì/No] <No>: _N
+"ARIAL" è ora lo stile di testo corrente.
+Comando: TEXTSTYLE
+Digitare nuovo valore per TEXTSTYLE <"ARIAL">: Standard
+Comando: _RECTANG
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: 0,0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: 40,20
+Comando: AFLAGS
+Digitare nuovo valore per AFLAGS <0>: 0
+Comando: _-ATTDEF
+Modalità attributi correnti:
+Invisibile=N  Costante=N  Verifica=N  Preassegna=N  Blocca posizione=N  Annotativo=N  Linee multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>:
+Digitare nome etichetta dell'attributo: CODICE
+Digitare messaggio di richiesta per l'attributo: Codice componente
+Digitare valore di default per l'attributo: K1
+Stile di testo corrente:  "Standard"  Altezza del testo:  2.5000  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 2,15
+Specificare altezza <2.5000>: 2.5
+Specificare angolo di rotazione del testo <0>: 0
+Comando: AFLAGS
+Digitare nuovo valore per AFLAGS <0>: 0
+Comando: _-ATTDEF
+Modalità attributi correnti:
+Invisibile=N  Costante=N  Verifica=N  Preassegna=N  Blocca posizione=N  Annotativo=N  Linee multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>: _I
+Modalità attributi correnti:
+Invisibile=S  Costante=N  Verifica=N  Preassegna=N  Blocca posizione=N  Annotativo=N  Linee multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>:
+Digitare nome etichetta dell'attributo: NOTA
+Digitare messaggio di richiesta per l'attributo: Nota di montaggio
+Digitare valore di default per l'attributo: da cablare
+Stile di testo corrente:  "Standard"  Altezza del testo:  2.5000  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 2,11
+Specificare altezza <2.5000>: 2.5
+Specificare angolo di rotazione del testo <0>: 0
+Comando: AFLAGS
+Digitare nuovo valore per AFLAGS <1>: 0
+Comando: _-ATTDEF
+Modalità attributi correnti:
+Invisibile=N  Costante=N  Verifica=N  Preassegna=N  Blocca posizione=N  Annotativo=N  Linee multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>: _C
+Modalità attributi correnti:
+Invisibile=N  Costante=S  Verifica=N  Preassegna=N  Blocca posizione=N  Annotativo=N  Linee multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>:
+Digitare nome etichetta dell'attributo: COSTRUTTORE
+Digitare valore dell'attributo: ACME
+Stile di testo corrente:  "Standard"  Altezza del testo:  2.5000  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 2,7
+Specificare altezza <2.5000>: 2.5
+Specificare angolo di rotazione del testo <0>: 0
+Comando: AFLAGS
+Digitare nuovo valore per AFLAGS <2>: 0
+Comando: _-ATTDEF
+Modalità attributi correnti:
+Invisibile=N  Costante=N  Verifica=N  Preassegna=N  Blocca posizione=N  Annotativo=N  Linee multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>: _V
+Modalità attributi correnti:
+Invisibile=N  Costante=N  Verifica=S  Preassegna=N  Blocca posizione=N  Annotativo=N  Linee multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>:
+Digitare nome etichetta dell'attributo: TENSIONE
+Digitare messaggio di richiesta per l'attributo: Tensione
+Digitare valore di default per l'attributo: 24V
+Stile di testo corrente:  "Standard"  Altezza del testo:  2.5000  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: _S
+Digitare nome dello stile o [?] <Standard>: ARIAL
+Stile di testo corrente:  "Standard"  Altezza del testo:  2.5000  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 22,15
+Specificare altezza <2.5000>: 2.5
+Specificare angolo di rotazione del testo <0>: 0
+Comando: TEXTSTYLE
+Digitare nuovo valore per TEXTSTYLE <"ARIAL">: Standard
+Comando: AFLAGS
+Digitare nuovo valore per AFLAGS <4>: 0
+Comando: _-ATTDEF
+Modalità attributi correnti:
+Invisibile=N  Costante=N  Verifica=N  Preassegna=N  Blocca posizione=N  Annotativo=N  Linee multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>: _P
+Modalità attributi correnti:
+Invisibile=N  Costante=N  Verifica=N  Preassegna=S  Blocca posizione=N  Annotativo=N  Linee multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>:
+Digitare nome etichetta dell'attributo: POSIZIONE
+Digitare messaggio di richiesta per l'attributo: Posizione
+Digitare valore di default per l'attributo: Q1
+Stile di testo corrente:  "Standard"  Altezza del testo:  2.5000  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 22,11
+Specificare altezza <2.5000>: 2.5
+Specificare angolo di rotazione del testo <0>: 0
+Comando: AFLAGS
+Digitare nuovo valore per AFLAGS <8>: 0
+Comando: _-ATTDEF
+Modalità attributi correnti:
+Invisibile=N  Costante=N  Verifica=N  Preassegna=N  Blocca posizione=N  Annotativo=N  Linee multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>: _L
+Modalità attributi correnti:
+Invisibile=N  Costante=N  Verifica=N  Preassegna=N  Blocca posizione=S  Annotativo=N  Linee multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>:
+Digitare nome etichetta dell'attributo: SIGLA
+Digitare messaggio di richiesta per l'attributo: Sigla
+Digitare valore di default per l'attributo: S1
+Stile di testo corrente:  "Standard"  Altezza del testo:  2.5000  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: _J
+Digitare un'opzione [Sinistra/Centro/Destra/Allineato/Mezzo/adaTta/AS/AC/AD/MS/MC/MD/BS/BC/BD]: _MC
+Specificare il punto medio del testo: 30,5
+Specificare altezza <2.5000>: 2.5
+Specificare angolo di rotazione del testo <0>: 10
+Comando: AFLAGS
+Digitare nuovo valore per AFLAGS <16>: 0
+Comando: _-BLOCK
+Digitare nome del blocco o [?]: COMPONENTE
+Specificare il punto base di inserimento o [Annotativo/mOdalità]: 0,0
+Selezionare oggetti: _ALL
+trovato(i) 7
+Selezionare oggetti:
+Comando: _-INSERT
+Digitare nome del blocco o [?]: COMPONENTE
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 0,-40
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: 1
+Digitare fattore di scala Y <Utilizza fattore di scala X>:
+Specificare angolo di rotazione <0>: 0
+Digitare i valori di attributo
+Sigla <S1>: S10
+Tensione <24V>: 230V
+Nota di montaggio <da cablare>: montaggio a quadro
+Codice componente <K1>: K10
+Verificare i valori di attributo
+Tensione <230V>: 230V
+Comando: _-INSERT
+Digitare nome del blocco o [?] <COMPONENTE>: COMPONENTE
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 60,-40
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: 1
+Digitare fattore di scala Y <Utilizza fattore di scala X>:
+Specificare angolo di rotazione <0>: 0
+Digitare i valori di attributo
+Sigla <S1>:
+Tensione <24V>:
+Nota di montaggio <da cablare>:
+Codice componente <K1>:
+Verificare i valori di attributo
+Tensione <24V>:
+Comando: _-INSERT
+Digitare nome del blocco o [?] <COMPONENTE>: COMPONENTE
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 120,-40
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: 1
+Digitare fattore di scala Y <Utilizza fattore di scala X>:
+Specificare angolo di rotazione <0>: 0
+Digitare i valori di attributo
+Sigla <S1>: S30
+Tensione <24V>: 400V
+Nota di montaggio <da cablare>: da cablare
+Codice componente <K1>: K30
+Verificare i valori di attributo
+Tensione <400V>: 400V
+Comando: _ZOOM
+Specificare un angolo della finestra, digitare un fattore di scala (nX o nXP) o
+[Tutto/Centrato/Dinamico/Estensioni/Precedente/scAla/Finestra/Oggetto] <tempo reale>: _W
+Specificare primo angolo: -10,-60
+Specificare angolo opposto: 180,10
+Comando: _-ATTEDIT
+Modificare gli attributi singolarmente? [Sì/No] <S>: _Y
+Digitare la specifica nome blocco <*>: COMPONENTE
+Digitare la specifica etichetta dell'attributo <*>: CODICE
+Digitare la specifica valore dell'attributo <*>: *
+Selezionare attributi: _C
+Specificare primo angolo: -1,-41
+Specificare angolo opposto: 41,-19
+1 trovati
+1 attributi selezionati..
+Digitare un'opzione [Valore/Posizione/ALtezza/ANgolo/Stile/Layer/Colore/SEguente] <SE>: _V
+Digitare tipo di modifica [Cambia/Sostituisci] <S>: _R
+Digitare nuovo valore dell'attributo: K11
+Digitare un'opzione [Valore/Posizione/ALtezza/ANgolo/Stile/Layer/Colore/SEguente] <SE>: _P
+Specificare nuovo punto di inserimento del testo <Nessuna modifica>: 5,-27
+Digitare un'opzione [Valore/Posizione/ALtezza/ANgolo/Stile/Layer/Colore/SEguente] <SE>: _H
+Specificare nuova altezza <2.5000>: 3.5
+Digitare un'opzione [Valore/Posizione/ALtezza/ANgolo/Stile/Layer/Colore/SEguente] <SE>: _A
+Specificare nuovo angolo di rotazione <0>: 15
+Digitare un'opzione [Valore/Posizione/ALtezza/ANgolo/Stile/Layer/Colore/SEguente] <SE>: _S
+Digitare nuovo stile di testo <Standard>: ARIAL
+Digitare un'opzione [Valore/Posizione/ALtezza/ANgolo/Stile/Layer/Colore/SEguente] <SE>: _L
+Digitare nome del nuovo layer <0>: ATTRIBUTI
+Digitare un'opzione [Valore/Posizione/ALtezza/ANgolo/Stile/Layer/Colore/SEguente] <SE>: _C
+Digitare nuovo colore [Truecolor/CAtalogocolori] <DALAYER>: 1
+Digitare un'opzione [Valore/Posizione/ALtezza/ANgolo/Stile/Layer/Colore/SEguente] <SE>: _N
+Comando: _-ATTEDIT
+Modificare gli attributi singolarmente? [Sì/No] <S>: _Y
+Digitare la specifica nome blocco <*>: COMPONENTE
+Digitare la specifica etichetta dell'attributo <*>: SIGLA
+Digitare la specifica valore dell'attributo <*>: *
+Selezionare attributi: _C
+Specificare primo angolo: 119,-41
+Specificare angolo opposto: 161,-19
+1 trovati
+1 attributi selezionati..
+Digitare un'opzione [Valore/Posizione/ALtezza/ANgolo/Stile/Layer/Colore/SEguente] <SE>: _V
+Digitare tipo di modifica [Cambia/Sostituisci] <S>: _C
+Digitare stringa da cambiare: 30
+Digitare nuova stringa: 31
+Digitare un'opzione [Valore/Posizione/ALtezza/ANgolo/Stile/Layer/Colore/SEguente] <SE>: _N
+Comando: _-ATTEDIT
+Modificare gli attributi singolarmente? [Sì/No] <S>: _N
+Modifica globale dei valori degli attributi.
+Modificare solo gli attributi visibili sullo schermo? [Sì/No] <S>: _N
+Il disegno dovrà essere rigenerato.
+Digitare la specifica nome blocco <*>: COMPONENTE
+Digitare la specifica etichetta dell'attributo <*>: NOTA
+Digitare la specifica valore dell'attributo <*>: *
+3 attributi selezionati..
+Digitare stringa da cambiare: cablare
+Digitare nuova stringa: verificare
+Comando: _-ATTEDIT
+Modificare gli attributi singolarmente? [Sì/No] <S>: _N
+Modifica globale dei valori degli attributi.
+Modificare solo gli attributi visibili sullo schermo? [Sì/No] <S>: _Y
+Digitare la specifica nome blocco <*>: *
+Digitare la specifica etichetta dell'attributo <*>: CODICE
+Digitare la specifica valore dell'attributo <*>: K*
+Selezionare attributi: _C
+Specificare primo angolo: -1,-41
+Specificare angolo opposto: 161,-19
+3 trovati
+3 attributi selezionati..
+Digitare stringa da cambiare: K
+Digitare nuova stringa: KA
+Comando: TEXTSTYLE
+Digitare nuovo valore per TEXTSTYLE <"Standard">: Standard
+Comando: _ZOOM
+Specificare un angolo della finestra, digitare un fattore di scala (nX o nXP) o
+[Tutto/Centrato/Dinamico/Estensioni/Precedente/scAla/Finestra/Oggetto] <tempo reale>: _E
