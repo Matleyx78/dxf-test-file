@@ -1,0 +1,116 @@
+;Tecnigrafo 0.8.1 - snap Vicino (_nea)
+;disegno nuovo dal modello acadlt-Tecnigrafo.dwt
+;--- variabili del profilo e correnti
+CMDECHO
+1
+MEASUREMENT
+1
+INSUNITS
+4
+OSMODE
+0
+OSNAPCOORD
+1
+ORTHOMODE
+0
+SNAPMODE
+0
+DYNMODE
+0
+MIRRTEXT
+0
+ATTREQ
+0
+ATTDIA
+0
+ATTMODE
+1
+TEXTSIZE
+2.5
+CECOLOR
+BYLAYER
+CLAYER
+0
+TEXTSTYLE
+Standard
+APERTURE
+10
+;--- geometria: linea, arco, cerchio, polilinea con un arco, ellisse, testo multiriga
+_LINE
+0,0
+40,10
+
+_ARC
+_C
+70,0
+80,0
+60,0
+_CIRCLE
+110,0
+10
+_PLINE
+140,0
+170,0
+_A
+170,20
+_L
+140,20
+
+_ELLIPSE
+_C
+210,0
+225,0
+5
+_-MTEXT
+240,10
+_W
+30
+Testo multiriga per lo snap Vicino
+
+;la casella dello snap e' in pixel: zoom fisso, cosi' 0,3 mm stanno dentro la casella
+_ZOOM
+_W
+-10,-40
+290,30
+;--- una LINE per caso: primo punto con _nea vicino all'oggetto (0,3 mm fuori), secondo punto sotto
+;a: linea
+_LINE
+_nea
+20,5.3
+20,-30
+
+;b: arco (punto a 45 gradi, raggio 10,3)
+_LINE
+_nea
+77.28,7.28
+77.28,-30
+
+;c: cerchio (punto a 30 gradi, raggio 10,3)
+_LINE
+_nea
+118.92,5.15
+118.92,-30
+
+;d: polilinea, lato diritto
+_LINE
+_nea
+155,0.3
+155,-30
+
+;e: polilinea, lato ad arco
+_LINE
+_nea
+180.3,10
+180.3,-30
+
+;f: ellisse (sopra il punto a 60 gradi del parametro)
+_LINE
+_nea
+217.5,4.6
+217.5,-30
+
+;g: testo multiriga (punto dentro il riquadro del testo), per ultimo: AutoCAD non trova
+;niente, risponde "Punto non valido" e lo script si ferma qui (si chiude con Esc)
+_LINE
+_nea
+250,7
