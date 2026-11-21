@@ -1,0 +1,75 @@
+;Tecnigrafo 0.8.1 - griglia, snap e icona dell'UCS: passi diversi in X e Y, snap acceso
+;disegno nuovo dal modello acadlt-Tecnigrafo.dwt
+;--- variabili del profilo e correnti
+CMDECHO
+1
+MEASUREMENT
+1
+INSUNITS
+4
+OSMODE
+0
+OSNAPCOORD
+1
+ORTHOMODE
+0
+SNAPMODE
+0
+DYNMODE
+0
+MIRRTEXT
+0
+ATTREQ
+0
+ATTDIA
+0
+ATTMODE
+1
+TEXTSIZE
+2.5
+CECOLOR
+BYLAYER
+CLAYER
+0
+TEXTSTYLE
+Standard
+;--- una linea, perche' il disegno non sia vuoto
+_LINE
+0,0
+50,30
+
+_ZOOM
+_E
+;--- stato di partenza, uguale per i tredici file (voce *ACTIVE della VPORT)
+GRIDMODE
+1
+GRIDUNIT
+10,10
+SNAPMODE
+0
+SNAPUNIT
+10,10
+SNAPBASE
+0,0
+SNAPANG
+0
+SNAPSTYL
+0
+SNAPTYPE
+0
+GRIDDISPLAY
+2
+GRIDMAJOR
+5
+UCSICON
+3
+;--- la variante: passi diversi in X e Y, snap acceso
+GRIDUNIT
+5,10
+SNAPUNIT
+2.5,5
+SNAPMODE
+1
+;--- fine
+_ZOOM
+_E
