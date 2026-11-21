@@ -1,0 +1,345 @@
+;Tecnigrafo 0.8.1 - testo formattato (MTEXT)
+;disegno nuovo dal modello acadlt-Tecnigrafo.dwt
+;--- variabili del profilo e correnti
+CMDECHO
+1
+MEASUREMENT
+1
+INSUNITS
+4
+OSMODE
+0
+OSNAPCOORD
+1
+ORTHOMODE
+0
+SNAPMODE
+0
+DYNMODE
+0
+MIRRTEXT
+0
+ATTREQ
+0
+ATTDIA
+0
+TEXTSIZE
+2.5
+CECOLOR
+BYLAYER
+CLAYER
+0
+;stile con arial.ttf, che ha le stesse misure di Liberation Sans
+_-STYLE
+ARIAL
+arial.ttf
+0
+1
+0
+_N
+_N
+;--- un MTEXT per formato, larghezza 0, a x=0; la copia a x=150 viene esplosa
+;    (un TEXT per pezzo: posizioni e misure di AutoCAD per chi scrive i riferimenti)
+;a: grassetto
+_-MTEXT
+0,0
+_W
+0
+Normale {\fArial|b1|i0|c0|p34;grassetto} normale
+
+_-MTEXT
+150,0
+_W
+0
+Normale {\fArial|b1|i0|c0|p34;grassetto} normale
+
+_EXPLODE
+_L
+;b: corsivo
+_-MTEXT
+0,-10
+_W
+0
+Normale {\fArial|b0|i1|c0|p34;corsivo} normale
+
+_-MTEXT
+150,-10
+_W
+0
+Normale {\fArial|b0|i1|c0|p34;corsivo} normale
+
+_EXPLODE
+_L
+;c: grassetto corsivo
+_-MTEXT
+0,-20
+_W
+0
+Normale {\fArial|b1|i1|c0|p34;grassetto corsivo} normale
+
+_-MTEXT
+150,-20
+_W
+0
+Normale {\fArial|b1|i1|c0|p34;grassetto corsivo} normale
+
+_EXPLODE
+_L
+;d: sottolineato
+_-MTEXT
+0,-30
+_W
+0
+Normale {\Lsottolineato} normale
+
+_-MTEXT
+150,-30
+_W
+0
+Normale {\Lsottolineato} normale
+
+_EXPLODE
+_L
+;e: sopralineato
+_-MTEXT
+0,-40
+_W
+0
+Normale {\Osopralineato} normale
+
+_-MTEXT
+150,-40
+_W
+0
+Normale {\Osopralineato} normale
+
+_EXPLODE
+_L
+;f: barrato
+_-MTEXT
+0,-50
+_W
+0
+Normale {\Kbarrato} normale
+
+_-MTEXT
+150,-50
+_W
+0
+Normale {\Kbarrato} normale
+
+_EXPLODE
+_L
+;g: altezza relativa 2x
+_-MTEXT
+0,-60
+_W
+0
+Normale {\H2x;doppia} normale
+
+_-MTEXT
+150,-60
+_W
+0
+Normale {\H2x;doppia} normale
+
+_EXPLODE
+_L
+;h: altezza assoluta 3.5
+_-MTEXT
+0,-70
+_W
+0
+Normale {\H3.5;tre e mezzo} normale
+
+_-MTEXT
+150,-70
+_W
+0
+Normale {\H3.5;tre e mezzo} normale
+
+_EXPLODE
+_L
+;i: colore ACI 1
+_-MTEXT
+0,-80
+_W
+0
+Normale {\C1;rosso} normale
+
+_-MTEXT
+150,-80
+_W
+0
+Normale {\C1;rosso} normale
+
+_EXPLODE
+_L
+;j: colore vero 16744448 (FF8000 se RGB, 0080FF se BGR)
+_-MTEXT
+0,-90
+_W
+0
+Normale {\c16744448;colore vero} normale
+
+_-MTEXT
+150,-90
+_W
+0
+Normale {\c16744448;colore vero} normale
+
+_EXPLODE
+_L
+;k: fattore di larghezza 0.8
+_-MTEXT
+0,-100
+_W
+0
+Normale {\W0.8;stretto} normale
+
+_-MTEXT
+150,-100
+_W
+0
+Normale {\W0.8;stretto} normale
+
+_EXPLODE
+_L
+;l: obliquo 15
+_-MTEXT
+0,-110
+_W
+0
+Normale {\Q15;obliquo} normale
+
+_-MTEXT
+150,-110
+_W
+0
+Normale {\Q15;obliquo} normale
+
+_EXPLODE
+_L
+;m: spaziatura 1.5
+_-MTEXT
+0,-120
+_W
+0
+Normale {\T1.5;spaziato} normale
+
+_-MTEXT
+150,-120
+_W
+0
+Normale {\T1.5;spaziato} normale
+
+_EXPLODE
+_L
+;n: impilata a/b
+_-MTEXT
+0,-130
+_W
+0
+Frazione \S1/2; fine
+
+_-MTEXT
+150,-130
+_W
+0
+Frazione \S1/2; fine
+
+_EXPLODE
+_L
+;o: impilata a#b
+_-MTEXT
+0,-140
+_W
+0
+Frazione \S1#2; fine
+
+_-MTEXT
+150,-140
+_W
+0
+Frazione \S1#2; fine
+
+_EXPLODE
+_L
+;p: impilata a^b
+_-MTEXT
+0,-150
+_W
+0
+Frazione \S1^2; fine
+
+_-MTEXT
+150,-150
+_W
+0
+Frazione \S1^2; fine
+
+_EXPLODE
+_L
+;q: font che non c'e'
+_-MTEXT
+0,-160
+_W
+0
+Normale {\fFontInesistente|b0|i0|c0|p34;font che non c'e'} normale
+
+_-MTEXT
+150,-160
+_W
+0
+Normale {\fFontInesistente|b0|i0|c0|p34;font che non c'e'} normale
+
+_EXPLODE
+_L
+;r: font Arial
+_-MTEXT
+0,-170
+_W
+0
+Normale {\fArial|b0|i0|c0|p34;Arial} normale
+
+_-MTEXT
+150,-170
+_W
+0
+Normale {\fArial|b0|i0|c0|p34;Arial} normale
+
+_EXPLODE
+_L
+;s: paragrafo con piu' formati, larghezza 60, che va a capo
+_-MTEXT
+0,-190
+_W
+60
+Paragrafo con {\fArial|b1|i0|c0|p34;parole in grassetto}, {\H2x;una parola alta}, {\C1;un tratto rosso}, {\Lsottolineato}, {\W0.8;stretto}, {\fArial|b0|i1|c0|p34;corsivo} e una frazione \S3/4; che deve andare a capo dentro la colonna.
+
+_-MTEXT
+150,-190
+_W
+60
+Paragrafo con {\fArial|b1|i0|c0|p34;parole in grassetto}, {\H2x;una parola alta}, {\C1;un tratto rosso}, {\Lsottolineato}, {\W0.8;stretto}, {\fArial|b0|i1|c0|p34;corsivo} e una frazione \S3/4; che deve andare a capo dentro la colonna.
+
+_EXPLODE
+_L
+;t: quota lineare con testo sostitutivo formattato (rosso il valore, mm in grassetto)
+_-DIMSTYLE
+_R
+ISO-25
+_LINE
+0,-240
+50,-240
+
+_DIMLINEAR
+0,-240
+50,-240
+_T
+{\C1;<>} {\fArial|b1|i0|c0|p34;mm}
+25,-250
+TEXTSTYLE
+Standard
+_ZOOM
+_E

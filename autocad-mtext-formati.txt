@@ -1,0 +1,367 @@
+Comando: CMDECHO
+Digitare nuovo valore per CMDECHO <1>: 1
+Comando: MEASUREMENT
+Digitare nuovo valore per MEASUREMENT <1>: 1
+Comando: INSUNITS
+Digitare nuovo valore per INSUNITS <4>: 4
+Comando: OSMODE
+Digitare nuovo valore per OSMODE <0>: 0
+Comando: OSNAPCOORD
+Digitare nuovo valore per OSNAPCOORD <1>: 1
+Comando: ORTHOMODE
+Digitare nuovo valore per ORTHOMODE <0>: 0
+Comando: SNAPMODE
+Digitare nuovo valore per SNAPMODE <0>: 0
+Comando: DYNMODE
+Digitare nuovo valore per DYNMODE <0>: 0
+Comando: MIRRTEXT
+Digitare nuovo valore per MIRRTEXT <0>: 0
+Comando: ATTREQ
+Digitare nuovo valore per ATTREQ <0>: 0
+Comando: ATTDIA
+Digitare nuovo valore per ATTDIA <0>: 0
+Comando: TEXTSIZE
+Digitare nuovo valore per TEXTSIZE <2.5000>: 2.5
+Comando: CECOLOR
+Digitare nuovo valore per CECOLOR <"DALAYER">: BYLAYER
+Comando: CLAYER
+Digitare nuovo valore per CLAYER <"0">: 0
+Comando: _-STYLE
+Digitare nome dello stile di testo o [?] <Standard>: ARIAL
+Nuovo stile.
+Specificare nome di font o nome del file di font (per SHX) <txt>: arial.ttf
+Specificare l'altezza testo o [Annotativo] <0.0000>: 0
+Specificare fattore di larghezza <1.0000>: 1
+Specificare angolo d'inclinazione <0>: 0
+Visualizzare testo in senso contrario? [Sì/No] <No>: _N
+Visualizzare testo capovolto? [Sì/No] <No>: _N
+"ARIAL" è ora lo stile di testo corrente.
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,0
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\fArial|b1|i0|c0|p34;grassetto} normale
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,0
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\fArial|b1|i0|c0|p34;grassetto} normale
+Testom:
+Comando: _EXPLODE
+Selezionare oggetto: _L
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-10
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\fArial|b0|i1|c0|p34;corsivo} normale
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,-10
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\fArial|b0|i1|c0|p34;corsivo} normale
+Testom:
+Comando: _EXPLODE
+Selezionare oggetto: _L
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-20
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\fArial|b1|i1|c0|p34;grassetto corsivo} normale
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,-20
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\fArial|b1|i1|c0|p34;grassetto corsivo} normale
+Testom:
+Comando: _EXPLODE
+Selezionare oggetto: _L
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-30
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\Lsottolineato} normale
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,-30
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\Lsottolineato} normale
+Testom:
+Comando: _EXPLODE
+Selezionare oggetto: _L
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-40
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\Osopralineato} normale
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,-40
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\Osopralineato} normale
+Testom:
+Comando: _EXPLODE
+Selezionare oggetto: _L
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-50
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\Kbarrato} normale
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,-50
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\Kbarrato} normale
+Testom:
+Comando: _EXPLODE
+Selezionare oggetto: _L
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-60
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\H2x;doppia} normale
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,-60
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\H2x;doppia} normale
+Testom:
+Comando: _EXPLODE
+Selezionare oggetto: _L
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-70
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\H3.5;tre e mezzo} normale
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,-70
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\H3.5;tre e mezzo} normale
+Testom:
+Comando: _EXPLODE
+Selezionare oggetto: _L
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-80
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\C1;rosso} normale
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,-80
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\C1;rosso} normale
+Testom:
+Comando: _EXPLODE
+Selezionare oggetto: _L
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-90
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\c16744448;colore vero} normale
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,-90
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\c16744448;colore vero} normale
+Testom:
+Comando: _EXPLODE
+Selezionare oggetto: _L
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-100
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\W0.8;stretto} normale
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,-100
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\W0.8;stretto} normale
+Testom:
+Comando: _EXPLODE
+Selezionare oggetto: _L
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-110
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\Q15;obliquo} normale
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,-110
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\Q15;obliquo} normale
+Testom:
+Comando: _EXPLODE
+Selezionare oggetto: _L
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-120
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\T1.5;spaziato} normale
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,-120
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\T1.5;spaziato} normale
+Testom:
+Comando: _EXPLODE
+Selezionare oggetto: _L
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-130
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Frazione \S1/2; fine
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,-130
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Frazione \S1/2; fine
+Testom:
+Comando: _EXPLODE
+Selezionare oggetto: _L
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-140
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Frazione \S1#2; fine
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,-140
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Frazione \S1#2; fine
+Testom:
+Comando: _EXPLODE
+Selezionare oggetto: _L
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-150
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Frazione \S1^2; fine
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,-150
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Frazione \S1^2; fine
+Testom:
+Comando: _EXPLODE
+Selezionare oggetto: _L
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-160
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\fFontInesistente|b0|i0|c0|p34;font che non c'e'} normale
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,-160
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\fFontInesistente|b0|i0|c0|p34;font che non c'e'} normale
+Testom:
+Comando: _EXPLODE
+Selezionare oggetto: _L
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-170
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\fArial|b0|i0|c0|p34;Arial} normale
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,-170
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 0
+Testom: Normale {\fArial|b0|i0|c0|p34;Arial} normale
+Testom:
+Comando: _EXPLODE
+Selezionare oggetto: _L
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 0,-190
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 60
+Testom: Paragrafo con {\fArial|b1|i0|c0|p34;parole in grassetto}, {\H2x;una parola alta}, {\C1;un tratto rosso}, {\Lsottolineato}, {\W0.8;stretto}, {\fArial|b0|i1|c0|p34;corsivo} e una frazione \S3/4; che deve andare a capo dentro la colonna.
+Testom:
+Comando: _-MTEXT
+Stile di testo corrente:  "ARIAL"  Altezza del testo:  2.5  Annotativo:  No
+Specificare il primo angolo: 150,-190
+Specificare l'angolo opposto oppure [Altezza/Giustificato/SPaziatura linea/Rotazione/Stile/Larghezza/Colonne]: _W
+Specificare la larghezza: 60
+Testom: Paragrafo con {\fArial|b1|i0|c0|p34;parole in grassetto}, {\H2x;una parola alta}, {\C1;un tratto rosso}, {\Lsottolineato}, {\W0.8;stretto}, {\fArial|b0|i1|c0|p34;corsivo} e una frazione \S3/4; che deve andare a capo dentro la colonna.
+Testom:
+Comando: _EXPLODE
+Selezionare oggetto: _L
+Comando: _-DIMSTYLE
+Stile di quota corrente:  ISO-25   Annotativo: No
+Digitare un'opzione per lo stile di quota
+[ANnotativo/SAlva/Ripristina/STato/Variabili/Applica/?] <Ripristina>: _R
+Digitare un nome di stile di quota, [?] o <seleziona quota>: ISO-25
+Stile di quota corrente:  ISO-25   Annotativo: No
+Comando: _LINE
+Specificare primo punto: 0,-240
+Specificare punto successivo o [Annulla]: 50,-240
+Specificare punto successivo o [Annulla]:
+Comando: _DIMLINEAR
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 0,-240
+Specificare l'origine della seconda linea di estensione: 50,-240
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo/Orizzontale/Verticale/Ruotato]: _T
+Digitare il testo di quota <50>: {\C1;<>} {\fArial|b1|i0|c0|p34;mm}
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo/Orizzontale/Verticale/Ruotato]: 25,-250
+Testo di quota = 50
+Comando: TEXTSTYLE
+Digitare nuovo valore per TEXTSTYLE <"ARIAL">: Standard
+Comando: _ZOOM
+Specificare un angolo della finestra, digitare un fattore di scala (nX o nXP) o
+[Tutto/Centrato/Dinamico/Estensioni/Precedente/scAla/Finestra/Oggetto] <tempo reale>: _E
