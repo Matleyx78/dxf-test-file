@@ -1,0 +1,109 @@
+Comando: CMDECHO
+Digitare nuovo valore per CMDECHO <1>: 1
+Comando: MEASUREMENT
+Digitare nuovo valore per MEASUREMENT <1>: 1
+Comando: INSUNITS
+Digitare nuovo valore per INSUNITS <4>: 4
+Comando: OSMODE
+Digitare nuovo valore per OSMODE <0>: 0
+Comando: OSNAPCOORD
+Digitare nuovo valore per OSNAPCOORD <1>: 1
+Comando: ORTHOMODE
+Digitare nuovo valore per ORTHOMODE <0>: 0
+Comando: SNAPMODE
+Digitare nuovo valore per SNAPMODE <0>: 0
+Comando: DYNMODE
+Digitare nuovo valore per DYNMODE <0>: 0
+Comando: MIRRTEXT
+Digitare nuovo valore per MIRRTEXT <0>: 0
+Comando: ATTREQ
+Digitare nuovo valore per ATTREQ <0>: 0
+Comando: ATTDIA
+Digitare nuovo valore per ATTDIA <0>: 0
+Comando: ATTMODE
+Digitare nuovo valore per ATTMODE <1>: 1
+Comando: TEXTSIZE
+Digitare nuovo valore per TEXTSIZE <2.5000>: 2.5
+Comando: CECOLOR
+Digitare nuovo valore per CECOLOR <"DALAYER">: BYLAYER
+Comando: CLAYER
+Digitare nuovo valore per CLAYER <"0">: 0
+Comando: TEXTSTYLE
+Digitare nuovo valore per TEXTSTYLE <"Standard">: Standard
+Comando: _LINE
+Specificare primo punto: 0,0
+Specificare punto successivo o [Annulla]: 30,0
+Specificare punto successivo o [Annulla]:
+Comando: _CIRCLE
+Specificare punto centrale del cerchio o [3P/2P/Ttr (tangente tangente raggio)]: 50,0
+Specificare raggio del cerchio o [Diametro]: 5
+Comando: _LINE
+Specificare primo punto: 0,20
+Specificare punto successivo o [Annulla]: 30,20
+Specificare punto successivo o [Annulla]:
+Comando: _LINE
+Specificare primo punto: 0,40
+Specificare punto successivo o [Annulla]: 30,40
+Specificare punto successivo o [Annulla]:
+Comando: _ZOOM
+Specificare un angolo della finestra, digitare un fattore di scala (nX o nXP) o
+[Tutto/Centrato/Dinamico/Estensioni/Precedente/scAla/Finestra/Oggetto] <tempo reale>: _W
+Specificare primo angolo: -20,-40
+Specificare angolo opposto: 140,60
+Comando: _ERASE
+Selezionare oggetti: _L
+trovato(i) 1
+Selezionare oggetti:
+Comando: _ERASE
+Selezionare oggetti: _L
+trovato(i) 1
+Selezionare oggetti:
+Comando: _SELECT
+Selezionare oggetti: _W
+Specificare primo angolo: -5,-10
+Specificare angolo opposto: 60,10
+trovato(i) 2
+Selezionare oggetti:
+Comando: _MOVE
+Selezionare oggetti: _P
+trovato(i) 2
+Selezionare oggetti:
+Specificare punto base o [Spostamento] <Spostamento>: 0,0
+Specificare secondo punto oppure <Utilizza primo punto come spostamento>: 0,-10
+Comando: _MOVE
+Selezionare oggetti: _W
+Specificare primo angolo: -5,-15
+Specificare angolo opposto: 35,-5
+trovato(i) 1
+Selezionare oggetti:
+Specificare punto base o [Spostamento] <Spostamento>: 0,0
+Specificare secondo punto oppure <Utilizza primo punto come spostamento>: 0,-10
+Comando: _U
+SPOSTA
+Comando: _SELECT
+Selezionare oggetti: _P
+trovato(i) 1
+Selezionare oggetti:
+Comando: _LINE
+Specificare primo punto: 100,0
+Specificare punto successivo o [Annulla]: 130,0
+Specificare punto successivo o [Annulla]:
+Comando: _U
+LINEA
+Comando: _SELECT
+Selezionare oggetti: _L
+trovato(i) 1
+Selezionare oggetti:
+Comando: _ERASE
+Selezionare oggetti: _W
+Specificare primo angolo: 40,-20
+Specificare angolo opposto: 60,0
+trovato(i) 1
+Selezionare oggetti:
+Comando: _SELECT
+Selezionare oggetti: _P
+Non esiste nessun gruppo di selezione precedente.
+Selezionare oggetti:
+Comando: _ZOOM
+Specificare un angolo della finestra, digitare un fattore di scala (nX o nXP) o
+[Tutto/Centrato/Dinamico/Estensioni/Precedente/scAla/Finestra/Oggetto] <tempo reale>: _E

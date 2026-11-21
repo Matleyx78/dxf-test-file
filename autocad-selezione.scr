@@ -1,0 +1,109 @@
+;Tecnigrafo 0.8.1 - selezione Last e Previous
+;disegno nuovo dal modello acadlt-Tecnigrafo.dwt
+;--- variabili del profilo e correnti
+CMDECHO
+1
+MEASUREMENT
+1
+INSUNITS
+4
+OSMODE
+0
+OSNAPCOORD
+1
+ORTHOMODE
+0
+SNAPMODE
+0
+DYNMODE
+0
+MIRRTEXT
+0
+ATTREQ
+0
+ATTDIA
+0
+ATTMODE
+1
+TEXTSIZE
+2.5
+CECOLOR
+BYLAYER
+CLAYER
+0
+TEXTSTYLE
+Standard
+;--- geometria: A linea, B cerchio, C linea, D linea (create in questo ordine)
+_LINE
+0,0
+30,0
+
+_CIRCLE
+50,0
+5
+_LINE
+0,20
+30,20
+
+_LINE
+0,40
+30,40
+
+;(il caso 4 e' in fondo: un SELECT Previous senza gruppo precedente lascia aperto un
+;gruppo di annullamento e la U dopo non annulla niente; e' successo nella prima prova)
+;le finestre di selezione vogliono gli oggetti a schermo
+_ZOOM
+_W
+-20,-40
+140,60
+;1: ERASE Last cancella D, l'ultima creata
+_ERASE
+_L
+
+;2: ERASE Last di nuovo: l'ultima visibile ora e' C
+_ERASE
+_L
+
+;3: SELECT a finestra di A e B, poi MOVE Previous di 0,-10
+_SELECT
+_W
+-5,-10
+60,10
+
+_MOVE
+_P
+
+0,0
+0,-10
+;5: Previous dopo U: A spostato di 0,-10 con una finestra, U, poi SELECT Previous (quanti ne trova?)
+_MOVE
+_W
+-5,-15
+35,-5
+
+0,0
+0,-10
+_U
+_SELECT
+_P
+
+;6: Last dopo U: LINE E, U (E sparisce), poi SELECT Last (quale prende?)
+_LINE
+100,0
+130,0
+
+_U
+_SELECT
+_L
+
+;4: Previous dopo un ERASE: B (ancora a 50,-10) cancellato con una finestra, poi SELECT Previous (quanti ne trova?)
+_ERASE
+_W
+40,-20
+60,0
+
+_SELECT
+_P
+
+_ZOOM
+_E
