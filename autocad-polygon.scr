@@ -1,0 +1,91 @@
+;Tecnigrafo 0.8.1 - POLYGON
+;disegno nuovo dal modello acadlt-Tecnigrafo.dwt
+;--- variabili del profilo e correnti
+CMDECHO
+1
+MEASUREMENT
+1
+INSUNITS
+4
+OSMODE
+0
+OSNAPCOORD
+1
+ORTHOMODE
+0
+SNAPMODE
+0
+DYNMODE
+0
+MIRRTEXT
+0
+ATTREQ
+0
+ATTDIA
+0
+ATTMODE
+1
+TEXTSIZE
+2.5
+CECOLOR
+BYLAYER
+CLAYER
+0
+TEXTSTYLE
+Standard
+;a: 3 lati, Inscribed, raggio scritto 20
+_POLYGON
+3
+0,0
+_I
+20
+;b: 6 lati, Inscribed, raggio scritto 20
+_POLYGON
+6
+60,0
+_I
+20
+;c: 6 lati, Circumscribed, raggio scritto 20
+_POLYGON
+6
+120,0
+_C
+20
+;d: 1024 lati, Inscribed, raggio scritto 20
+_POLYGON
+1024
+180,0
+_I
+20
+;e: 6 lati, Inscribed, raggio dato con un punto a 15 gradi (ruota il poligono)
+_POLYGON
+6
+240,0
+_I
+@20<15
+;f: 6 lati, Circumscribed, raggio dato con un punto a 15 gradi
+_POLYGON
+6
+300,0
+_C
+@20<15
+;g: 5 lati, Inscribed, raggio scritto 20 (numero dispari)
+_POLYGON
+5
+360,0
+_I
+20
+;h: 6 lati, Edge da 400,-10 a 420,-10
+_POLYGON
+6
+_E
+400,-10
+420,-10
+;i: 6 lati, Edge da 470,-10 a 450,-10 (verso opposto)
+_POLYGON
+6
+_E
+470,-10
+450,-10
+_ZOOM
+_E
