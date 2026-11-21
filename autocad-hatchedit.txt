@@ -1,0 +1,284 @@
+Comando: CMDECHO
+Digitare nuovo valore per CMDECHO <1>: 1
+Comando: MEASUREMENT
+Digitare nuovo valore per MEASUREMENT <1>: 1
+Comando: INSUNITS
+Digitare nuovo valore per INSUNITS <4>: 4
+Comando: OSMODE
+Digitare nuovo valore per OSMODE <0>: 0
+Comando: OSNAPCOORD
+Digitare nuovo valore per OSNAPCOORD <1>: 1
+Comando: ORTHOMODE
+Digitare nuovo valore per ORTHOMODE <0>: 0
+Comando: SNAPMODE
+Digitare nuovo valore per SNAPMODE <0>: 0
+Comando: DYNMODE
+Digitare nuovo valore per DYNMODE <0>: 0
+Comando: MIRRTEXT
+Digitare nuovo valore per MIRRTEXT <0>: 0
+Comando: ATTREQ
+Digitare nuovo valore per ATTREQ <0>: 0
+Comando: ATTDIA
+Digitare nuovo valore per ATTDIA <0>: 0
+Comando: ATTMODE
+Digitare nuovo valore per ATTMODE <1>: 1
+Comando: TEXTSIZE
+Digitare nuovo valore per TEXTSIZE <2.5000>: 2.5
+Comando: CECOLOR
+Digitare nuovo valore per CECOLOR <"DALAYER">: BYLAYER
+Comando: CLAYER
+Digitare nuovo valore per CLAYER <"0">: 0
+Comando: TEXTSTYLE
+Digitare nuovo valore per TEXTSTYLE <"Standard">: Standard
+Comando: HPASSOC
+Digitare nuovo valore per HPASSOC <1>: 1
+Comando: HPISLANDDETECTIONMODE
+Digitare nuovo valore per HPISLANDDETECTIONMODE <1>: 1
+Comando: HPSEPARATE
+Digitare nuovo valore per HPSEPARATE <0>: 0
+Comando: HPGAPTOL
+Digitare nuovo valore per HPGAPTOL <0.0000>: 0
+Comando: HPORIGINMODE
+Digitare nuovo valore per HPORIGINMODE <0>: 0
+Comando: HPDRAWORDER
+Digitare nuovo valore per HPDRAWORDER <3>: 0
+Comando: _LINE
+Specificare primo punto: 0,0
+Specificare punto successivo o [Annulla]: 60,0
+Specificare punto successivo o [Annulla]: 60,40
+Specificare il punto successivo o [Chiudi/Annulla]: 0,40
+Specificare il punto successivo o [Chiudi/Annulla]: _C
+Comando: _CIRCLE
+Specificare punto centrale del cerchio o [3P/2P/Ttr (tangente tangente raggio)]: 30,20
+Specificare raggio del cerchio o [Diametro]: 8
+Comando: _LINE
+Specificare primo punto: 80,0
+Specificare punto successivo o [Annulla]: 140,0
+Specificare punto successivo o [Annulla]: 140,40
+Specificare il punto successivo o [Chiudi/Annulla]: 80,40
+Specificare il punto successivo o [Chiudi/Annulla]: _C
+Comando: _CIRCLE
+Specificare punto centrale del cerchio o [3P/2P/Ttr (tangente tangente raggio)]: 110,20
+Specificare raggio del cerchio o [Diametro] <8.0000>: 8
+Comando: _LINE
+Specificare primo punto: 160,0
+Specificare punto successivo o [Annulla]: 220,0
+Specificare punto successivo o [Annulla]: 220,40
+Specificare il punto successivo o [Chiudi/Annulla]: 160,40
+Specificare il punto successivo o [Chiudi/Annulla]: _C
+Comando: _CIRCLE
+Specificare punto centrale del cerchio o [3P/2P/Ttr (tangente tangente raggio)]: 190,20
+Specificare raggio del cerchio o [Diametro] <8.0000>: 8
+Comando: _LINE
+Specificare primo punto: 240,0
+Specificare punto successivo o [Annulla]: 300,0
+Specificare punto successivo o [Annulla]: 300,40
+Specificare il punto successivo o [Chiudi/Annulla]: 240,40
+Specificare il punto successivo o [Chiudi/Annulla]: _C
+Comando: _CIRCLE
+Specificare punto centrale del cerchio o [3P/2P/Ttr (tangente tangente raggio)]: 270,20
+Specificare raggio del cerchio o [Diametro] <8.0000>: 8
+Comando: _LINE
+Specificare primo punto: 320,0
+Specificare punto successivo o [Annulla]: 380,0
+Specificare punto successivo o [Annulla]: 380,40
+Specificare il punto successivo o [Chiudi/Annulla]: 320,40
+Specificare il punto successivo o [Chiudi/Annulla]: _C
+Comando: _CIRCLE
+Specificare punto centrale del cerchio o [3P/2P/Ttr (tangente tangente raggio)]: 350,20
+Specificare raggio del cerchio o [Diametro] <8.0000>: 8
+Comando: _LINE
+Specificare primo punto: 400,0
+Specificare punto successivo o [Annulla]: 460,0
+Specificare punto successivo o [Annulla]: 460,40
+Specificare il punto successivo o [Chiudi/Annulla]: 400,40
+Specificare il punto successivo o [Chiudi/Annulla]: _C
+Comando: _CIRCLE
+Specificare punto centrale del cerchio o [3P/2P/Ttr (tangente tangente raggio)]: 430,20
+Specificare raggio del cerchio o [Diametro] <8.0000>: 8
+Comando: _LINE
+Specificare primo punto: 480,0
+Specificare punto successivo o [Annulla]: 540,0
+Specificare punto successivo o [Annulla]: 540,40
+Specificare il punto successivo o [Chiudi/Annulla]: 480,40
+Specificare il punto successivo o [Chiudi/Annulla]: _C
+Comando: _CIRCLE
+Specificare punto centrale del cerchio o [3P/2P/Ttr (tangente tangente raggio)]: 510,20
+Specificare raggio del cerchio o [Diametro] <8.0000>: 8
+Comando: _ZOOM
+Specificare un angolo della finestra, digitare un fattore di scala (nX o nXP) o
+[Tutto/Centrato/Dinamico/Estensioni/Precedente/scAla/Finestra/Oggetto] <tempo reale>: _E
+Comando: HPNAME
+Digitare nuovo valore per HPNAME <"ANGLE">: ANSI31
+Comando: HPSCALE
+Digitare nuovo valore per HPSCALE <1.0000>: 1
+Comando: HPANG
+Digitare nuovo valore per HPANG <0>: 0
+Comando: HPISLANDDETECTION
+Digitare nuovo valore per HPISLANDDETECTION <1>: 0
+Comando: _-HATCH
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]: 5,5
+Selezione totale...
+Selezione di tutto quello che si può vedere...
+Analisi dei dati selezionati...
+Analisi di isole interne in corso...
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]:
+Comando: _-HATCHEDIT
+Selezionare tratteggio: (entlast)
+<Nome entità: 20a0241dbf0>
+Digitare un'opzione di tratteggio [DIssocia/Stile/Proprietà/Ordine di visualizzazione/AGgiungi contorni/Elimina contorni/Ricrea contorni/ASsocia/Tratteggi separati/origiNe/annotatiVo/COlore tratteggio/LAyer/trasparenZa] <Proprietà>: _P
+Digitare un nome di modello o [?/Solido/Definito utente/SFumatura] <ANSI31>: ANSI37
+Specificare una scala per il modello <1.0000>: 1
+Specificare un angolo per il modello <0>: 0
+Comando: HPNAME
+Digitare nuovo valore per HPNAME <"ANSI37">: ANSI31
+Comando: HPSCALE
+Digitare nuovo valore per HPSCALE <1.0000>: 1
+Comando: HPANG
+Digitare nuovo valore per HPANG <0>: 0
+Comando: HPISLANDDETECTION
+Digitare nuovo valore per HPISLANDDETECTION <0>: 0
+Comando: _-HATCH
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]: 85,5
+Selezione totale...
+Selezione di tutto quello che si può vedere...
+Analisi dei dati selezionati...
+Analisi di isole interne in corso...
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]:
+Comando: _-HATCHEDIT
+Selezionare tratteggio: (entlast)
+<Nome entità: 20a0241dc60>
+Digitare un'opzione di tratteggio [DIssocia/Stile/Proprietà/Ordine di visualizzazione/AGgiungi contorni/Elimina contorni/Ricrea contorni/ASsocia/Tratteggi separati/origiNe/annotatiVo/COlore tratteggio/LAyer/trasparenZa] <Proprietà>: _P
+Digitare un nome di modello o [?/Solido/Definito utente/SFumatura] <ANSI31>: ANSI31
+Specificare una scala per il modello <1.0000>: 2
+Specificare un angolo per il modello <0>: 0
+Comando: HPNAME
+Digitare nuovo valore per HPNAME <"ANSI31">: ANSI31
+Comando: HPSCALE
+Digitare nuovo valore per HPSCALE <2.0000>: 1
+Comando: HPANG
+Digitare nuovo valore per HPANG <0>: 0
+Comando: HPISLANDDETECTION
+Digitare nuovo valore per HPISLANDDETECTION <0>: 0
+Comando: _-HATCH
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]: 165,5
+Selezione totale...
+Selezione di tutto quello che si può vedere...
+Analisi dei dati selezionati...
+Analisi di isole interne in corso...
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]:
+Comando: _-HATCHEDIT
+Selezionare tratteggio: (entlast)
+<Nome entità: 20a0241dcd0>
+Digitare un'opzione di tratteggio [DIssocia/Stile/Proprietà/Ordine di visualizzazione/AGgiungi contorni/Elimina contorni/Ricrea contorni/ASsocia/Tratteggi separati/origiNe/annotatiVo/COlore tratteggio/LAyer/trasparenZa] <Proprietà>: _P
+Digitare un nome di modello o [?/Solido/Definito utente/SFumatura] <ANSI31>: ANSI31
+Specificare una scala per il modello <1.0000>: 1
+Specificare un angolo per il modello <0>: 30
+Comando: HPNAME
+Digitare nuovo valore per HPNAME <"ANSI31">: ANSI31
+Comando: HPSCALE
+Digitare nuovo valore per HPSCALE <1.0000>: 1
+Comando: HPANG
+Digitare nuovo valore per HPANG <30>: 0
+Comando: HPISLANDDETECTION
+Digitare nuovo valore per HPISLANDDETECTION <0>: 0
+Comando: _-HATCH
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]: 245,5
+Selezione totale...
+Selezione di tutto quello che si può vedere...
+Analisi dei dati selezionati...
+Analisi di isole interne in corso...
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]:
+Comando: _-HATCHEDIT
+Selezionare tratteggio: (entlast)
+<Nome entità: 20a0241dd40>
+Digitare un'opzione di tratteggio [DIssocia/Stile/Proprietà/Ordine di visualizzazione/AGgiungi contorni/Elimina contorni/Ricrea contorni/ASsocia/Tratteggi separati/origiNe/annotatiVo/COlore tratteggio/LAyer/trasparenZa] <Proprietà>: _OR
+[Usa origine corrente/Imposta nuova origine/valori di Default delle estensioni dei contorni] <Usa origine corrente>: _S
+Selezionare punto: 245,5
+Memorizzare come origine di default? [Sì/No] <N>: _N
+Comando: HPNAME
+Digitare nuovo valore per HPNAME <"ANSI31">: ANSI31
+Comando: HPSCALE
+Digitare nuovo valore per HPSCALE <1.0000>: 1
+Comando: HPANG
+Digitare nuovo valore per HPANG <0>: 0
+Comando: HPISLANDDETECTION
+Digitare nuovo valore per HPISLANDDETECTION <0>: 0
+Comando: _-HATCH
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]: 325,5
+Selezione totale...
+Selezione di tutto quello che si può vedere...
+Analisi dei dati selezionati...
+Analisi di isole interne in corso...
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]:
+Comando: _-HATCHEDIT
+Selezionare tratteggio: (entlast)
+<Nome entità: 20a0241ddb0>
+Digitare un'opzione di tratteggio [DIssocia/Stile/Proprietà/Ordine di visualizzazione/AGgiungi contorni/Elimina contorni/Ricrea contorni/ASsocia/Tratteggi separati/origiNe/annotatiVo/COlore tratteggio/LAyer/trasparenZa] <Proprietà>: _S
+Digitare stile di tratteggio [Ignora/Esterno/Normale] <Normale>: _O
+Comando: HPNAME
+Digitare nuovo valore per HPNAME <"ANSI31">: ANSI31
+Comando: HPSCALE
+Digitare nuovo valore per HPSCALE <1.0000>: 1
+Comando: HPANG
+Digitare nuovo valore per HPANG <0>: 0
+Comando: HPISLANDDETECTION
+Digitare nuovo valore per HPISLANDDETECTION <1>: 0
+Comando: _-HATCH
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]: 405,5
+Selezione totale...
+Selezione di tutto quello che si può vedere...
+Analisi dei dati selezionati...
+Analisi di isole interne in corso...
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]:
+Comando: _-HATCHEDIT
+Selezionare tratteggio: (entlast)
+<Nome entità: 20a0241de20>
+Digitare un'opzione di tratteggio [DIssocia/Stile/Proprietà/Ordine di visualizzazione/AGgiungi contorni/Elimina contorni/Ricrea contorni/ASsocia/Tratteggi separati/origiNe/annotatiVo/COlore tratteggio/LAyer/trasparenZa] <Proprietà>: _P
+Digitare un nome di modello o [?/Solido/Definito utente/SFumatura] <ANSI31>: ANSI37
+Specificare una scala per il modello <1.0000>: 2
+Specificare un angolo per il modello <0>: 30
+Comando: _-HATCHEDIT
+Selezionare tratteggio: (entlast)
+<Nome entità: 20a0241de20>
+Digitare un'opzione di tratteggio [DIssocia/Stile/Proprietà/Ordine di visualizzazione/AGgiungi contorni/Elimina contorni/Ricrea contorni/ASsocia/Tratteggi separati/origiNe/annotatiVo/COlore tratteggio/LAyer/trasparenZa] <Proprietà>: _OR
+[Usa origine corrente/Imposta nuova origine/valori di Default delle estensioni dei contorni] <Usa origine corrente>: _S
+Selezionare punto: 405,5
+Memorizzare come origine di default? [Sì/No] <N>: _N
+Comando: _-HATCHEDIT
+Selezionare tratteggio: (entlast)
+<Nome entità: 20a0241de20>
+Digitare un'opzione di tratteggio [DIssocia/Stile/Proprietà/Ordine di visualizzazione/AGgiungi contorni/Elimina contorni/Ricrea contorni/ASsocia/Tratteggi separati/origiNe/annotatiVo/COlore tratteggio/LAyer/trasparenZa] <Proprietà>: _S
+Digitare stile di tratteggio [Ignora/Esterno/Normale] <Normale>: _I
+Comando: HPNAME
+Digitare nuovo valore per HPNAME <"ANSI37">: ANSI31
+Comando: HPSCALE
+Digitare nuovo valore per HPSCALE <2.0000>: 1
+Comando: HPANG
+Digitare nuovo valore per HPANG <30>: 0
+Comando: HPISLANDDETECTION
+Digitare nuovo valore per HPISLANDDETECTION <2>: 0
+Comando: _-HATCH
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]: 485,5
+Selezione totale...
+Selezione di tutto quello che si può vedere...
+Analisi dei dati selezionati...
+Analisi di isole interne in corso...
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]:
+Comando: _ZOOM
+Specificare un angolo della finestra, digitare un fattore di scala (nX o nXP) o
+[Tutto/Centrato/Dinamico/Estensioni/Precedente/scAla/Finestra/Oggetto] <tempo reale>: _E
