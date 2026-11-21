@@ -1,0 +1,116 @@
+;Tecnigrafo 0.8.1 - BATTMAN (tre parti di script e due passaggi a mano nella finestra)
+;disegno nuovo dal modello acadlt-Tecnigrafo.dwt
+;--- variabili del profilo e correnti
+CMDECHO
+1
+MEASUREMENT
+1
+INSUNITS
+4
+OSMODE
+0
+OSNAPCOORD
+1
+ORTHOMODE
+0
+SNAPMODE
+0
+DYNMODE
+0
+MIRRTEXT
+0
+ATTREQ
+1
+ATTDIA
+0
+ATTMODE
+1
+TEXTSIZE
+2.5
+CECOLOR
+BYLAYER
+CLAYER
+0
+TEXTSTYLE
+Standard
+;--- parte 1 di 2: blocco BATT con UNO, DUE, TRE (nella definizione: TRE, DUE, UNO)
+_RECTANG
+0,0
+40,20
+AFLAGS
+0
+_-ATTDEF
+
+UNO
+Uno
+U0
+2,15
+2.5
+0
+AFLAGS
+0
+_-ATTDEF
+
+DUE
+Due
+D0
+2,10
+2.5
+0
+AFLAGS
+0
+_-ATTDEF
+
+TRE
+Tre
+T0
+2,5
+2.5
+0
+AFLAGS
+0
+_-BLOCK
+BATT
+0,0
+_ALL
+
+;I1 a 0,-40 con ATTREQ 1: domande Tre, Due, Uno
+_-INSERT
+BATT
+0,-40
+1
+
+0
+I1-3
+I1-2
+I1-1
+_ZOOM
+_E
+;--- a mano: BATTMAN, blocco BATT; riga UNO due volte su, riga DUE una volta su:
+;    ordine UNO, DUE, TRE; Sincronizza, OK
+;--- I2 a 60,-40 con ATTREQ 1: domande nel nuovo ordine Uno, Due, Tre
+_-INSERT
+BATT
+60,-40
+1
+
+0
+I2-1
+I2-2
+I2-3
+_ZOOM
+_E
+;--- I3 a 120,-40, uguale (prima del cambio del messaggio)
+_-INSERT
+BATT
+120,-40
+1
+
+0
+I3-1
+I3-2
+I3-3
+_ZOOM
+_E
+;--- a mano: BATTMAN, blocco BATT; Modifica su DUE, scheda Attributo, Messaggio
+;    "Due" -> "Due cambiato", OK; Sincronizza, OK
