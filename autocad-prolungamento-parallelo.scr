@@ -1,0 +1,111 @@
+;Tecnigrafo 0.8.1 - snap Prolungamento e Parallelo
+;disegno nuovo dal modello acadlt-Tecnigrafo.dwt
+;lo script disegna gli oggetti; le LINE con Prolungamento e Parallelo si fanno a mano
+;(passi nella cronologia): OSMODE 12288 = Prolungamento + Parallelo,
+;AUTOSNAP 39 = puntamento polare e puntamento snap spenti, POLARMODE 0 = guide ortogonali
+;--- variabili del profilo e correnti
+CMDECHO
+1
+MEASUREMENT
+1
+INSUNITS
+4
+OSMODE
+12288
+OSNAPCOORD
+1
+ORTHOMODE
+0
+SNAPMODE
+0
+DYNMODE
+0
+MIRRTEXT
+0
+ATTREQ
+0
+ATTDIA
+0
+ATTMODE
+1
+TEXTSIZE
+2.5
+CECOLOR
+BYLAYER
+CLAYER
+0
+TEXTSTYLE
+Standard
+AUTOSNAP
+39
+POLARMODE
+0
+APERTURE
+10
+;--- oggetti
+;a: linea obliqua da 0,0 a 40,30 (direzione 0.8,0.6)
+_LINE
+0,0
+40,30
+
+;b: arco di centro 100,0 e raggio 20, da 0 a 90 gradi (da 120,0 a 100,20)
+_ARC
+_C
+100,0
+120,0
+100,20
+;c: polilinea aperta: primo segmento da 160,0 (0.8,0.6), ultimo fino a 224,25 (12/13,5/13)
+_PLINE
+160,0
+180,15
+200,15
+224,25
+
+;d: due linee i cui prolungamenti oltre 320,10 e 340,10 si incrociano
+_LINE
+300,0
+320,10
+
+_LINE
+360,0
+340,10
+
+;e: arco di centro 100,-60 da 0 a 90 gradi e linea fino a 70,-60:
+;   il prolungamento dell'arco oltre 100,-40 e quello della linea si incrociano
+_ARC
+_C
+100,-60
+120,-60
+100,-40
+_LINE
+60,-60
+70,-60
+
+;f: linea fino a 430,15 e linea verticale da 450,-20: prolungamento e guida del puntamento
+_LINE
+410,-15
+430,15
+
+_LINE
+450,-20
+450,-40
+
+;g: linea per il Parallelo
+_LINE
+500,0
+530,10
+
+;h: polilinea per il Parallelo al segmento centrale (da 580,0 a 600,15)
+_PLINE
+560,0
+580,0
+600,15
+620,15
+
+_ZOOM
+_W
+-30,-80
+640,60
+;--- fine dello script
+USERS1
+fine-autocad-prolungamento-parallelo
