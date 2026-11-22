@@ -1,0 +1,162 @@
+Comando: CMDECHO
+Digitare nuovo valore per CMDECHO <1>: 1
+Comando: MEASUREMENT
+Digitare nuovo valore per MEASUREMENT <1>: 1
+Comando: INSUNITS
+Digitare nuovo valore per INSUNITS <4>: 4
+Comando: OSMODE
+Digitare nuovo valore per OSMODE <0>: 0
+Comando: OSNAPCOORD
+Digitare nuovo valore per OSNAPCOORD <1>: 1
+Comando: ORTHOMODE
+Digitare nuovo valore per ORTHOMODE <0>: 0
+Comando: SNAPMODE
+Digitare nuovo valore per SNAPMODE <0>: 0
+Comando: DYNMODE
+Digitare nuovo valore per DYNMODE <0>: 0
+Comando: MIRRTEXT
+Digitare nuovo valore per MIRRTEXT <0>: 0
+Comando: ATTREQ
+Digitare nuovo valore per ATTREQ <0>: 0
+Comando: ATTDIA
+Digitare nuovo valore per ATTDIA <0>: 0
+Comando: ATTMODE
+Digitare nuovo valore per ATTMODE <1>: 1
+Comando: TEXTSIZE
+Digitare nuovo valore per TEXTSIZE <2.5000>: 2.5
+Comando: CECOLOR
+Digitare nuovo valore per CECOLOR <"DALAYER">: BYLAYER
+Comando: CLAYER
+Digitare nuovo valore per CLAYER <"0">: 0
+Comando: TEXTSTYLE
+Digitare nuovo valore per TEXTSTYLE <"Standard">: Standard
+Comando: _PLINE
+Specificare punto iniziale: 0,0
+La larghezza corrente della linea è 0.0000
+Specificare punto successivo o [Arco/Mezza-larghezza/LUnghezza/ANnulla/LArghezza]: 30,0
+Specificare punto successivo o [Arco/CHiudi/Mezza-larghezza/LUnghezza/ANnulla/LArghezza]: 30,15
+Specificare punto successivo o [Arco/CHiudi/Mezza-larghezza/LUnghezza/ANnulla/LArghezza]: 0,15
+Specificare punto successivo o [Arco/CHiudi/Mezza-larghezza/LUnghezza/ANnulla/LArghezza]: _C
+Comando: AFLAGS
+Digitare nuovo valore per AFLAGS <16>: 0
+Comando: _-ATTDEF
+Modalità attributi correnti:
+Invisibile=N  Costante=N  Verifica=N  Preassegna=N  Blocca posizione=N  Annotativo=N  Linee multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>:
+Digitare nome etichetta dell'attributo: UNO
+Digitare messaggio di richiesta per l'attributo: Uno
+Digitare valore di default per l'attributo: u-a
+Stile di testo corrente:  "Standard"  Altezza del testo:  2.5000  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 2,10
+Specificare altezza <2.5000>: 2.5
+Specificare angolo di rotazione del testo <0>: 0
+Comando: AFLAGS
+Digitare nuovo valore per AFLAGS <0>: 0
+Comando: _-ATTDEF
+Modalità attributi correnti:
+Invisibile=N  Costante=N  Verifica=N  Preassegna=N  Blocca posizione=N  Annotativo=N  Linee multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>:
+Digitare nome etichetta dell'attributo: DUE
+Digitare messaggio di richiesta per l'attributo: Due
+Digitare valore di default per l'attributo: d-a
+Stile di testo corrente:  "Standard"  Altezza del testo:  2.5000  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 2,4
+Specificare altezza <2.5000>: 2.5
+Specificare angolo di rotazione del testo <0>: 0
+Comando: _-BLOCK
+Digitare nome del blocco o [?]: BLK_A
+Specificare il punto base di inserimento o [Annotativo/mOdalità]: 0,0
+Selezionare oggetti: _ALL
+trovato(i) 3
+Selezionare oggetti:
+Comando: _PLINE
+Specificare punto iniziale: 0,0
+La larghezza corrente della linea è 0.0000
+Specificare punto successivo o [Arco/Mezza-larghezza/LUnghezza/ANnulla/LArghezza]: 30,0
+Specificare punto successivo o [Arco/CHiudi/Mezza-larghezza/LUnghezza/ANnulla/LArghezza]: 30,15
+Specificare punto successivo o [Arco/CHiudi/Mezza-larghezza/LUnghezza/ANnulla/LArghezza]: 0,15
+Specificare punto successivo o [Arco/CHiudi/Mezza-larghezza/LUnghezza/ANnulla/LArghezza]: _C
+Comando: _CIRCLE
+Specificare punto centrale del cerchio o [3P/2P/Ttr (tangente tangente raggio)]: 25,7.5
+Specificare raggio del cerchio o [Diametro]: 3
+Comando: AFLAGS
+Digitare nuovo valore per AFLAGS <0>: 0
+Comando: _-ATTDEF
+Modalità attributi correnti:
+Invisibile=N  Costante=N  Verifica=N  Preassegna=N  Blocca posizione=N  Annotativo=N  Linee multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>:
+Digitare nome etichetta dell'attributo: DUE
+Digitare messaggio di richiesta per l'attributo: Due
+Digitare valore di default per l'attributo: d-b
+Stile di testo corrente:  "Standard"  Altezza del testo:  2.5000  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 2,10
+Specificare altezza <2.5000>: 2.5
+Specificare angolo di rotazione del testo <0>: 0
+Comando: AFLAGS
+Digitare nuovo valore per AFLAGS <0>: 0
+Comando: _-ATTDEF
+Modalità attributi correnti:
+Invisibile=N  Costante=N  Verifica=N  Preassegna=N  Blocca posizione=N  Annotativo=N  Linee multiple=N
+Digitare un'opzione di modifica [Invisibile/Costante/Verifica/Preassegna/Blocca posizione/Annotativo/Linee multiple] <Fatto>:
+Digitare nome etichetta dell'attributo: TRE
+Digitare messaggio di richiesta per l'attributo: Tre
+Digitare valore di default per l'attributo: t-b
+Stile di testo corrente:  "Standard"  Altezza del testo:  2.5000  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 2,4
+Specificare altezza <2.5000>: 2.5
+Specificare angolo di rotazione del testo <0>: 0
+Comando: _-BLOCK
+Digitare nome del blocco o [?]: BLK_B
+Specificare il punto base di inserimento o [Annotativo/mOdalità]: 0,0
+Selezionare oggetti: _ALL
+trovato(i) 4
+Selezionare oggetti:
+Comando: _-INSERT
+Digitare nome del blocco o [?]: BLK_A
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 0,-40
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: 1
+Digitare fattore di scala Y <Utilizza fattore di scala X>:
+Specificare angolo di rotazione <0>: 0
+Comando: _ELLIPSE
+Specificare punto finale dell'asse dell'ellisse o [Arco/Centro]: _C
+Specificare centro dell'ellisse: 60,-40
+Specificare punto finale dell'asse: 80,-40
+Specificare distanza dal secondo asse o [Rotazione]: 10
+Comando: _ELLIPSE
+Specificare punto finale dell'asse dell'ellisse o [Arco/Centro]: _C
+Specificare centro dell'ellisse: 110,-40
+Specificare punto finale dell'asse: 130,-40
+Specificare distanza dal secondo asse o [Rotazione]: 10
+Comando: _ELLIPSE
+Specificare punto finale dell'asse dell'ellisse o [Arco/Centro]: _C
+Specificare centro dell'ellisse: 160,-40
+Specificare punto finale dell'asse: 180,-40
+Specificare distanza dal secondo asse o [Rotazione]: 10
+Comando: _ELLIPSE
+Specificare punto finale dell'asse dell'ellisse o [Arco/Centro]: _A
+Specificare punto finale dell'asse dell'arco ellittico o [Centro]: _C
+Specificare centro dell'arco ellittico: 210,-40
+Specificare punto finale dell'asse: 230,-40
+Specificare distanza dal secondo asse o [Rotazione]: 10
+Specificare angolo iniziale o [Parametro]: 45
+Specificare angolo finale o [Parametro/angolo Inscritto]: 135
+Comando: _ELLIPSE
+Specificare punto finale dell'asse dell'ellisse o [Arco/Centro]: _A
+Specificare punto finale dell'asse dell'arco ellittico o [Centro]: _C
+Specificare centro dell'arco ellittico: 260,-40
+Specificare punto finale dell'asse: 280,-40
+Specificare distanza dal secondo asse o [Rotazione]: 10
+Specificare angolo iniziale o [Parametro]: 45
+Specificare angolo finale o [Parametro/angolo Inscritto]: 135
+Comando: _ZOOM
+Specificare un angolo della finestra, digitare un fattore di scala (nX o nXP) o
+[Tutto/Centrato/Dinamico/Estensioni/Precedente/scAla/Finestra/Oggetto] <tempo reale>: _E
+Comando: USERS1
+Digitare nuovo valore per USERS1, o . per nessuno <"">: fine-autocad-proprieta
+[a mano nel palette Proprietà] E1 (centro 60,-40): Raggio maggiore da 20 a 30.
+[a mano nel palette Proprietà] E2 (centro 110,-40): Raggio minore da 10 a 5.
+[a mano nel palette Proprietà] E3 (centro 160,-40): Raggio maggiore da 20 a 5, rifiutato con la finestra Errore «Modellazione generale non riuscita.»; ellisse invariata.
+[a mano nel palette Proprietà] E4 (centro 210,-40): solo letto; Angolo iniziale 45, Angolo finale 135.
+[a mano nel palette Proprietà] E5 (centro 260,-40): Angolo iniziale da 45 a 30.
+[a mano nel palette Proprietà] I1 (BLK_A in 0,-40): Nome in grigio, non modificabile; Attributi DUE d-a, UNO u-a.
