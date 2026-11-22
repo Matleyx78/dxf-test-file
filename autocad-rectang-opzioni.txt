@@ -1,0 +1,187 @@
+Comando: CMDECHO
+Digitare nuovo valore per CMDECHO <1>: 1
+Comando: MEASUREMENT
+Digitare nuovo valore per MEASUREMENT <1>: 1
+Comando: INSUNITS
+Digitare nuovo valore per INSUNITS <4>: 4
+Comando: OSMODE
+Digitare nuovo valore per OSMODE <0>: 0
+Comando: OSNAPCOORD
+Digitare nuovo valore per OSNAPCOORD <1>: 1
+Comando: ORTHOMODE
+Digitare nuovo valore per ORTHOMODE <0>: 0
+Comando: SNAPMODE
+Digitare nuovo valore per SNAPMODE <0>: 0
+Comando: DYNMODE
+Digitare nuovo valore per DYNMODE <0>: 0
+Comando: MIRRTEXT
+Digitare nuovo valore per MIRRTEXT <0>: 0
+Comando: ATTREQ
+Digitare nuovo valore per ATTREQ <0>: 0
+Comando: ATTDIA
+Digitare nuovo valore per ATTDIA <0>: 0
+Comando: ATTMODE
+Digitare nuovo valore per ATTMODE <1>: 1
+Comando: TEXTSIZE
+Digitare nuovo valore per TEXTSIZE <2.5000>: 2.5
+Comando: CECOLOR
+Digitare nuovo valore per CECOLOR <"DALAYER">: BYLAYER
+Comando: CLAYER
+Digitare nuovo valore per CLAYER <"0">: 0
+Comando: TEXTSTYLE
+Digitare nuovo valore per TEXTSTYLE <"Standard">: Standard
+Comando: _RECTANG
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _C
+Specificare prima distanza di cimatura del rettangolo <0.0000>: 0
+Specificare seconda distanza di cimatura del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _F
+Specificare raggio di raccordo del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _W
+Specificare larghezza di linea per rettangoli <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _E
+Specificare elevazione del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _T
+Specificare altezza del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: 0,0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: _R
+Specificare l'angolo di rotazione o [SCegli punti] <0>: _P
+Specificare primo punto: 0,0
+Specificare secondo punto: 4,3
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: _D
+Specificare lunghezza dei rettangoli <10.0000>: 40
+Specificare larghezza dei rettangoli <10.0000>: 20
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: 60,60
+Comando: _RECTANG
+Modalità rettangolo corrente:  Rotazione=37
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _C
+Specificare prima distanza di cimatura del rettangolo <0.0000>: 0
+Specificare seconda distanza di cimatura del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _F
+Specificare raggio di raccordo del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _W
+Specificare larghezza di linea per rettangoli <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _E
+Specificare elevazione del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _T
+Specificare altezza del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: 100,0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: _R
+Specificare l'angolo di rotazione o [SCegli punti] <37>: 0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: _A
+Digitare l'area del rettangolo in unità correnti <100.0000>: 600
+Calcolare le quote rettangolo in base alla [Lunghezza/lArghezza] <Lunghezza>: _W
+Digitare la larghezza rettangolo <20.0000>: 20
+Comando: _RECTANG
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _C
+Specificare prima distanza di cimatura del rettangolo <0.0000>: 0
+Specificare seconda distanza di cimatura del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _F
+Specificare raggio di raccordo del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _W
+Specificare larghezza di linea per rettangoli <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _E
+Specificare elevazione del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _T
+Specificare altezza del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _W
+Specificare larghezza di linea per rettangoli <0.0000>: 1
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _F
+Specificare raggio di raccordo del rettangolo <0.0000>: 4
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: 160,0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: _R
+Specificare l'angolo di rotazione o [SCegli punti] <0>: 0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: 200,20
+Comando: _RECTANG
+Modalità rettangolo corrente:  Raccordo=4.0000  Larghezza=1.0000
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _C
+Specificare prima distanza di cimatura del rettangolo <4.0000>: 0
+Specificare seconda distanza di cimatura del rettangolo <4.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _F
+Specificare raggio di raccordo del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _W
+Specificare larghezza di linea per rettangoli <1.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _E
+Specificare elevazione del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _T
+Specificare altezza del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _C
+Specificare prima distanza di cimatura del rettangolo <0.0000>: 25
+Specificare seconda distanza di cimatura del rettangolo <25.0000>: 25
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: 220,0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: _R
+Specificare l'angolo di rotazione o [SCegli punti] <0>: 0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: 260,20
+Comando: _RECTANG
+Modalità rettangolo corrente:  Cima=25.0000 x 25.0000
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _C
+Specificare prima distanza di cimatura del rettangolo <25.0000>: 0
+Specificare seconda distanza di cimatura del rettangolo <25.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _F
+Specificare raggio di raccordo del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _W
+Specificare larghezza di linea per rettangoli <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _E
+Specificare elevazione del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _T
+Specificare altezza del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _F
+Specificare raggio di raccordo del rettangolo <0.0000>: 15
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: 280,0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: _R
+Specificare l'angolo di rotazione o [SCegli punti] <0>: 0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: 320,20
+Comando: _RECTANG
+Modalità rettangolo corrente:  Raccordo=15.0000
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _C
+Specificare prima distanza di cimatura del rettangolo <15.0000>: 0
+Specificare seconda distanza di cimatura del rettangolo <15.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _F
+Specificare raggio di raccordo del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _W
+Specificare larghezza di linea per rettangoli <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _E
+Specificare elevazione del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _T
+Specificare altezza del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: 340,0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: _R
+Specificare l'angolo di rotazione o [SCegli punti] <0>: 30
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: 380,20
+Comando: _RECTANG
+Modalità rettangolo corrente:  Rotazione=30
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _C
+Specificare prima distanza di cimatura del rettangolo <0.0000>: 0
+Specificare seconda distanza di cimatura del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _F
+Specificare raggio di raccordo del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _W
+Specificare larghezza di linea per rettangoli <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _E
+Specificare elevazione del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _T
+Specificare altezza del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: 440,0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: _R
+Specificare l'angolo di rotazione o [SCegli punti] <30>: 0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: 400,20
+Comando: _RECTANG
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _C
+Specificare prima distanza di cimatura del rettangolo <0.0000>: 0
+Specificare seconda distanza di cimatura del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _F
+Specificare raggio di raccordo del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _W
+Specificare larghezza di linea per rettangoli <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _E
+Specificare elevazione del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: _T
+Specificare altezza del rettangolo <0.0000>: 0
+Specificare primo angolo o [Cima/Elevazione/Raccordo/Altezza/Larghezza]: 460,20
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: _R
+Specificare l'angolo di rotazione o [SCegli punti] <0>: 0
+Specificare un altro angolo opposto o [Area/Quote/Rotazione]: 500,0
+Comando: _ZOOM
+Specificare un angolo della finestra, digitare un fattore di scala (nX o nXP) o
+[Tutto/Centrato/Dinamico/Estensioni/Precedente/scAla/Finestra/Oggetto] <tempo reale>: _E
+Comando: USERS1
+Digitare nuovo valore per USERS1, o . per nessuno <"">: fine-autocad-rectang-opzioni
