@@ -1,0 +1,155 @@
+;Tecnigrafo 0.8.1 - snap Vicino (_nea) su testo, inserimento, quota, SOLID e retino
+;disegno nuovo dal modello acadlt-Tecnigrafo.dwt
+;--- variabili del profilo e correnti
+CMDECHO
+1
+MEASUREMENT
+1
+INSUNITS
+4
+OSMODE
+0
+OSNAPCOORD
+1
+ORTHOMODE
+0
+SNAPMODE
+0
+DYNMODE
+0
+MIRRTEXT
+0
+ATTREQ
+0
+ATTDIA
+0
+ATTMODE
+1
+TEXTSIZE
+2.5
+CECOLOR
+BYLAYER
+CLAYER
+0
+TEXTSTYLE
+Standard
+APERTURE
+10
+OSNAPHATCH
+0
+;--- oggetti: testo, blocco inserito, quota lineare, SOLID, retino senza contorno
+_TEXT
+0,0
+2.5
+0
+Testo per Vicino
+_PLINE
+40,0
+60,0
+60,10
+40,10
+_C
+_-BLOCK
+QUADRO
+40,0
+_L
+
+_-INSERT
+QUADRO
+40,0
+1
+
+0
+_DIMLINEAR
+80,0
+110,0
+95,10
+_SOLID
+130,0
+150,0
+130,10
+150,10
+
+_PLINE
+170,0
+200,0
+200,20
+170,20
+_C
+HPNAME
+ANSI31
+HPSCALE
+1
+HPANG
+0
+HPISLANDDETECTION
+0
+_-HATCH
+_S
+_L
+
+
+;la casella dello snap e' in pixel: zoom fisso come autocad-vicino (e serve alla finestra qui sotto)
+_ZOOM
+_W
+-10,-40
+290,30
+;il contorno del retino si cancella: finestra intorno, tolto l'ultimo oggetto (il retino)
+_ERASE
+_W
+165,-5
+205,25
+_R
+_L
+
+;--- fine dello script
+USERS1
+fine-vicino-1-oggetti
+;--- una LINE per caso, primo punto con _nea 0,3 mm fuori dall'oggetto;
+;    ogni caso e' stato eseguito come script a parte, perche' se AutoCAD non trova
+;    niente risponde "Punto non valido" e lo script si ferma (si chiude con Esc)
+;a: inserimento (0,3 sotto il lato in basso del blocco)
+_LINE
+_nea
+50,-0.3
+50,-30
+
+;--- fine dello script
+USERS1
+fine-vicino-2-a
+;b: quota (0,3 sotto la linea di quota, lontano da frecce e testo)
+_LINE
+_nea
+88,9.7
+88,-30
+
+;--- fine dello script
+USERS1
+fine-vicino-3-b
+;c: SOLID (0,3 sotto il lato in basso)
+_LINE
+_nea
+140,-0.3
+140,-30
+
+;--- fine dello script
+USERS1
+fine-vicino-4-c
+;d: retino (0,3 sotto il lato in basso della regione)
+_LINE
+_nea
+185,-0.3
+185,-30
+
+;--- fine dello script
+USERS1
+fine-vicino-5-d
+;e: testo (0,3 sotto la linea di base)
+_LINE
+_nea
+5,-0.3
+5,-30
+
+;--- fine dello script
+USERS1
+fine-vicino-6-e

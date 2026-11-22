@@ -1,0 +1,153 @@
+Comando: CMDECHO
+Digitare nuovo valore per CMDECHO <1>: 1
+Comando: MEASUREMENT
+Digitare nuovo valore per MEASUREMENT <1>: 1
+Comando: INSUNITS
+Digitare nuovo valore per INSUNITS <4>: 4
+Comando: OSMODE
+Digitare nuovo valore per OSMODE <12289>: 0
+Comando: OSNAPCOORD
+Digitare nuovo valore per OSNAPCOORD <1>: 1
+Comando: ORTHOMODE
+Digitare nuovo valore per ORTHOMODE <0>: 0
+Comando: SNAPMODE
+Digitare nuovo valore per SNAPMODE <0>: 0
+Comando: DYNMODE
+Digitare nuovo valore per DYNMODE <0>: 0
+Comando: MIRRTEXT
+Digitare nuovo valore per MIRRTEXT <0>: 0
+Comando: ATTREQ
+Digitare nuovo valore per ATTREQ <0>: 0
+Comando: ATTDIA
+Digitare nuovo valore per ATTDIA <0>: 0
+Comando: ATTMODE
+Digitare nuovo valore per ATTMODE <1>: 1
+Comando: TEXTSIZE
+Digitare nuovo valore per TEXTSIZE <2.5000>: 2.5
+Comando: CECOLOR
+Digitare nuovo valore per CECOLOR <"DALAYER">: BYLAYER
+Comando: CLAYER
+Digitare nuovo valore per CLAYER <"0">: 0
+Comando: TEXTSTYLE
+Digitare nuovo valore per TEXTSTYLE <"Standard">: Standard
+Comando: APERTURE
+Digitare nuovo valore per APERTURE <10>: 10
+Comando: OSNAPHATCH
+Digitare nuovo valore per OSNAPHATCH <0>: 0
+Comando: _TEXT
+Stile di testo corrente: "Standard"  Altezza del testo: 2.5000  Annotativo:  No  Giustificato:  Sinistra
+Specificare il punto iniziale del testo o [Giustificato/STile]: 0,0
+Specificare altezza <2.5000>: 2.5
+Specificare angolo di rotazione del testo <0>: 0
+Digitare testo: Testo per Vicino
+Comando: _PLINE
+Specificare punto iniziale: 40,0
+La larghezza corrente della linea è 0.0000
+Specificare punto successivo o [Arco/Mezza-larghezza/LUnghezza/ANnulla/LArghezza]: 60,0
+Specificare punto successivo o [Arco/CHiudi/Mezza-larghezza/LUnghezza/ANnulla/LArghezza]: 60,10
+Specificare punto successivo o [Arco/CHiudi/Mezza-larghezza/LUnghezza/ANnulla/LArghezza]: 40,10
+Specificare punto successivo o [Arco/CHiudi/Mezza-larghezza/LUnghezza/ANnulla/LArghezza]: _C
+Comando: _-BLOCK
+Digitare nome del blocco o [?]: QUADRO
+Specificare il punto base di inserimento o [Annotativo/mOdalità]: 40,0
+Selezionare oggetti: _L
+trovato(i) 1
+Selezionare oggetti:
+Comando: _-INSERT
+Digitare nome del blocco o [?]: QUADRO
+Unità: Millimetri   Conversione:    1.0000
+Specificare il punto di inserimento o [punto Base/Scala/X/Y/Z/Ruota/Esplodi/rIpeti]: 40,0
+Digitare fattore di scala X, specificare angolo opposto o [Angolo/XYZ] <1>: 1
+Digitare fattore di scala Y <Utilizza fattore di scala X>:
+Specificare angolo di rotazione <0>: 0
+Comando: _DIMLINEAR
+Specificare l'origine della prima linea di estensione o <seleziona oggetto>: 80,0
+Specificare l'origine della seconda linea di estensione: 110,0
+Creata quota non associativa.
+Specificare la posizione della linea di quota o
+[testoM/Testo/Angolo/Orizzontale/Verticale/Ruotato]: 95,10
+Testo di quota = 30
+Comando: _SOLID
+Specificare primo punto: 130,0
+Specificare secondo punto: 150,0
+Specificare terzo punto: 130,10
+Specificare quarto punto o <Esci>: 150,10
+Specificare terzo punto:
+Comando: _PLINE
+Specificare punto iniziale: 170,0
+La larghezza corrente della linea è 0.0000
+Specificare punto successivo o [Arco/Mezza-larghezza/LUnghezza/ANnulla/LArghezza]: 200,0
+Specificare punto successivo o [Arco/CHiudi/Mezza-larghezza/LUnghezza/ANnulla/LArghezza]: 200,20
+Specificare punto successivo o [Arco/CHiudi/Mezza-larghezza/LUnghezza/ANnulla/LArghezza]: 170,20
+Specificare punto successivo o [Arco/CHiudi/Mezza-larghezza/LUnghezza/ANnulla/LArghezza]: _C
+Comando: HPNAME
+Digitare nuovo valore per HPNAME <"ANGLE">: ANSI31
+Comando: HPSCALE
+Digitare nuovo valore per HPSCALE <1.0000>: 1
+Comando: HPANG
+Digitare nuovo valore per HPANG <0>: 0
+Comando: HPISLANDDETECTION
+Digitare nuovo valore per HPISLANDDETECTION <1>: 0
+Comando: _-HATCH
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]: _S
+Selezionare oggetti: _L
+trovato(i) 1
+Selezionare oggetti:
+Modello di tratteggio corrente: ANSI31
+Specificare il punto interno o [Proprietà/Seleziona oggetti/Disegna contorno/elimina Contorni/Avanzate/ORdine di visualizzazione/Origine/annotatiVo/COLore tratteggio/LAyer/Trasparenza]:
+Comando: _ZOOM
+Specificare un angolo della finestra, digitare un fattore di scala (nX o nXP) o
+[Tutto/Centrato/Dinamico/Estensioni/Precedente/scAla/Finestra/Oggetto] <tempo reale>: _W
+Specificare primo angolo: -10,-40
+Specificare angolo opposto: 290,30
+Comando: _ERASE
+Selezionare oggetti: _W
+Specificare primo angolo: 165,-5
+Specificare angolo opposto: 205,25
+trovato(i) 2
+Selezionare oggetti: _R
+Rimuovere oggetti: _L
+trovato(i) 1, rimosso(i) 1, 1 totale
+Rimuovere oggetti:
+Il contorno del tratteggio è stato dissociato.
+Comando: USERS1
+Digitare nuovo valore per USERS1, o . per nessuno <"">: fine-vicino-1-oggetti
+[eseguito come script a parte: vicino-2-a.scr]
+Comando: _LINE
+Specificare primo punto: _nea
+a 50,-0.3
+Specificare punto successivo o [Annulla]: 50,-30
+Specificare punto successivo o [Annulla]:
+Comando: USERS1
+Digitare nuovo valore per USERS1, o . per nessuno <"fine-vicino-1-oggetti">: fine-vicino-2-a
+[eseguito come script a parte: vicino-3-b.scr]
+Comando: _LINE
+Specificare primo punto: _nea
+a 88,9.7
+Specificare punto successivo o [Annulla]: 88,-30
+Specificare punto successivo o [Annulla]:
+Comando: USERS1
+Digitare nuovo valore per USERS1, o . per nessuno <"fine-vicino-2-a">: fine-vicino-3-b
+[eseguito come script a parte: vicino-4-c.scr]
+Comando: _LINE
+Specificare primo punto: _nea
+a 140,-0.3
+Specificare punto successivo o [Annulla]: 140,-30
+Specificare punto successivo o [Annulla]:
+Comando: USERS1
+Digitare nuovo valore per USERS1, o . per nessuno <"fine-vicino-3-b">: fine-vicino-4-c
+[eseguito come script a parte: vicino-5-d.scr]
+Comando: _LINE
+Specificare primo punto: _nea
+a 185,-0.3
+Nessun(o/a) trovato(a) per punto specificato.
+Punto non valido.
+Specificare primo punto: *Annulla*
+[eseguito come script a parte: vicino-6-e.scr]
+Comando: _LINE
+Specificare primo punto: _nea
+a 5,-0.3
+Nessun(o/a) trovato(a) per punto specificato.
+Punto non valido.
+Specificare primo punto: *Annulla*
